@@ -25,6 +25,16 @@ public class Ngrams {
     /*sentences to analize*/
     public static ArrayList<String> sentences = new ArrayList<String>();
     
+    ArrayList<nchar> list2 = new ArrayList<nchar>();
+    
+    public static HashMap<String, Integer> unicharas = new HashMap<String, Integer>();
+    
+    public static HashMap<String, Integer> listMap2 = new HashMap<String, Integer>();
+    
+    public static HashMap<String, Integer> listMap3 = new HashMap<String, Integer>();
+    
+    public static ArrayList<String> words = new ArrayList<String>();
+    
     
     public static void main(String[] args) throws FileNotFoundException, IOException {
         
@@ -52,15 +62,22 @@ public class Ngrams {
         parseUnigrams(article);
         parseBigrams(article);
         System.out.print("done.\n");
-        System.out.print("=> Analyzing sentences ... ");
+        System.out.print("=> Analyzing sentences and words... ");
         
+        //String article = readFile(fileList.get(0));
+        parseBicharas(article);
+        parseTricharas(article);
+        System.out.print("done.\n");
+        System.out.print("=> Analyzing sentences and words... ");
         
         //sentences.add("The company refused to protect the British public.");
         //sentences.add("The Chinese government plans are met.");
        
         ArrayList<sentence> sentencesDone = findSentenceFrequency(sentences);
+        ArrayList<word> wordsDone = findWordFrequency(words);
+        
         //generator.sentences2HTML(sentencesDone);
-        generator.sentences2Txt(sentencesDone);
+        generator.sentences2Txt(sentencesDone, wordsDone);
         System.out.print("done.\n");
 
         System.out.print("=> Generating text raport ... ");
@@ -69,6 +86,9 @@ public class Ngrams {
         
         generateTxt.unigrams2Txt(unigrams);
         generateTxt.bigrams2Txt(listMap);
+        generateTxt.unicharas2Txt(unicharas);
+        generateTxt.bicharas2Txt(listMap2);
+        generateTxt.tricharas2Txt(listMap3);
         
         System.out.print("done.\n");
         
@@ -148,6 +168,93 @@ public class Ngrams {
             listMap.put(key, listMap.get(key));
         }
     }
+    
+    public static void parseBicharas(String s){
+        String[] words = s.split("[.?!\";() ]");
+      
+      /*we don't need any spaces, trim it*/
+      for(int i=0; i<words.length; i++){
+          words[i] = words[i].trim();
+          System.out.println(words[i]);
+      }
+      for(int i=0; i<words.length; i++){   
+          words[i] = words[i].toLowerCase();
+          
+          int n =2;
+          for(int j =0; j<words[i].length(); j++){
+             
+            /*get the ngram we're currently iterating on*/
+              String chara = "";
+              if(j==0)
+                  chara ="# "+words[i].charAt(0);
+              else 
+                  chara = words[i].charAt(j-1) + " " + words[i].charAt(j);
+              
+            /*add to statistics*/
+              if(listMap2.containsKey(chara)){
+                  int occurences = (int)listMap2.get(chara)+1;
+                  listMap2.put(chara, occurences);      
+              } else listMap2.put(chara, 1);            
+          }
+      }
+      
+      //calculate the probability 
+      for (String key : listMap.keySet()){   
+          String newKey = key;
+       //   double newValue = listMap.get(key)/listMap.size();
+          listMap.put(key, listMap.get(key));
+      }
+  }
+    
+    public static void parseTricharas(String s){
+        String[] words = s.split("[.?!\";() ]");
+      
+      /*we don't need any spaces, trim it*/
+      for(int i=0; i<words.length; i++){
+          words[i] = words[i].trim();
+          System.out.println(words[i]);
+      }
+      for(int i=0; i<words.length; i++){   
+          words[i] = words[i].toLowerCase();
+          
+          int n =3;
+          for(int j =0; j<words[i].length(); j++){
+             
+            /*get the ngram we're currently iterating on*/
+              String chara = "";
+              if(j==0)
+                  chara ="# "+"# "+words[i].charAt(0);
+              else if(j==1)
+            	  chara ="# "+words[i].charAt(0)+" "+words[i].charAt(1);
+              else 
+                  chara = +words[i].charAt(j-2) + " " + words[i].charAt(j-1) + " " + words[i].charAt(j);
+              
+            /*add to statistics*/
+              if(listMap3.containsKey(chara)){
+                  int occurences = (int)listMap3.get(chara)+1;
+                  listMap3.put(chara, occurences);      
+              } else listMap3.put(chara, 1);            
+          }
+      }
+      
+      //calculate the probability 
+      for (String key : listMap.keySet()){   
+          String newKey = key;
+       //   double newValue = listMap.get(key)/listMap.size();
+          listMap.put(key, listMap.get(key));
+      }
+      for (String key : listMap2.keySet()){   
+          String newKey = key;
+       //   double newValue = listMap.get(key)/listMap.size();
+          listMap2.put(key, listMap2.get(key));
+      }
+      for (String key : listMap3.keySet()){   
+          String newKey = key;
+       //   double newValue = listMap.get(key)/listMap.size();
+          listMap3.put(key, listMap3.get(key));
+      }
+      
+  }
 
     
      /*pass the list of sentences into*/
@@ -182,6 +289,49 @@ public class Ngrams {
         
      }
      
+     public static ArrayList<word> findWordFrequency(ArrayList<String> words){
+         ArrayList<word> done = new ArrayList<word>();
+         
+         for(int i=0; i<words.size(); i++){
+             /*analize the sentence with unigrams first*/
+           
+            
+             word temp = new word();  
+             
+             temp = temp.getDone(sentences.get(i), unicharas, unicharas, 1); 
+           
+             done.add(temp);
+             
+           
+         }         
+         
+         for(int i=0; i<words.size(); i++){
+             /*analize the sentence with unigrams first*/
+           
+            
+             word temp = new word();  
+             
+             temp = temp.getDone(words.get(i), unicharas, listMap2, 2); 
+           
+             done.add(temp);
+             
+           
+         }
+           for(int i=0; i<sentences.size(); i++){
+             /*analize the sentence with unigrams first*/
+           
+            
+             word temp = new word();  
+           
+             
+             temp = temp.getDone(sentences.get(i),unigrams, listMap3, 3); 
+           
+             done.add(temp);
+         }        
+         return done;
+        
+     }
+     
         
      /*Simple print*/
      public static void printListMap(){
@@ -193,6 +343,26 @@ public class Ngrams {
                System.out.println(key + " " + value);
             }            
       }
+     
+     public static void printListMap2(){
+         Iterator iterator = listMap2.keySet().iterator();
+         while (iterator.hasNext()) {
+            String key = iterator.next().toString();
+            String value = listMap2.get(key).toString();
+
+            System.out.println(key + " " + value);
+         }            
+   }
+     
+     public static void printListMap3(){
+         Iterator iterator = listMap3.keySet().iterator();
+         while (iterator.hasNext()) {
+            String key = iterator.next().toString();
+            String value = listMap3.get(key).toString();
+
+            System.out.println(key + " " + value);
+         }            
+   }
         
       public static String readFile(String filename) throws FileNotFoundException, IOException{
               FileInputStream fstream = new FileInputStream(filename);
