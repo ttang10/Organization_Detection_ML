@@ -1,4 +1,4 @@
-package discription;
+package description;
 
 import java.io.BufferedReader;
 import java.io.DataInputStream;
@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 
-public class DiscrExtra {
+public class DescrExtra {
 	
 	final static String FILENAME = "500 labeled.txt";
 	final static String OUTPUT1 = "personal.txt";

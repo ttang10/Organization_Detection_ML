@@ -1,4 +1,4 @@
-package discription;
+package description;
 
 import java.util.ArrayList;
 
@@ -22,7 +22,7 @@ public class TestDetec {
 		a2.add("o");
 		a2.add("o");
 		DetectChar t2 = new DetectChar(a2);
-		if(t1.detect("He is a godlen boy."))
+		if(t2.detect("He is a godlen boy."))
 			System.out.println("Right!");
 		else
 			System.out.println("Wrong!");
