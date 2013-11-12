@@ -17,7 +17,7 @@ public class UrlCheck {
 	/**
 	 * @param args
 	 */
-	final static String FILENAME = "500 labeled.txt";
+	final static String FILENAME = "refined.txt";
 	final static String OUTPUT = "checked.txt";
 	
 	public static void main(String[] args) throws IOException {
@@ -32,7 +32,6 @@ public class UrlCheck {
         DataInputStream in = new DataInputStream(fstream);
         BufferedReader br = new BufferedReader(new InputStreamReader(in));
         String strLine;
-        String file = "";
         while ((strLine = br.readLine()) != null){
                lines.add(strLine);
                String[] temp = strLine.split("\t");

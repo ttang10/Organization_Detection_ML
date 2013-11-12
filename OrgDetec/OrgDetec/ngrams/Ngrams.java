@@ -45,7 +45,7 @@ public class Ngrams {
         for(int i=1; i<=20; i++){
             fileList.add("C:\\CS\\CS 595 ML\\projectbus\\test"+i+".txt");
         }*/
-        fileList.add("test.txt");
+        fileList.add("organization.txt");
         
         System.out.print("done.\n");
         System.out.print("=> Loading and parsing files ... ");

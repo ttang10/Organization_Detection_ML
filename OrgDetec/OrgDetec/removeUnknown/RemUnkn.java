@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 public class RemUnkn {
 	
-	final static String FILENAME = "500 labeled.txt";
+	final static String FILENAME = "3000 labeled.txt";
 	final static String OUTPUT = "refined.txt";
 
 	/**

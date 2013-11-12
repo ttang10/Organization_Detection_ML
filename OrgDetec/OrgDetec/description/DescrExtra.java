@@ -11,7 +11,7 @@ import java.util.ArrayList;
 
 public class DescrExtra {
 	
-	final static String FILENAME = "500 labeled.txt";
+	final static String FILENAME = "refined.txt";
 	final static String OUTPUT1 = "personal.txt";
 	final static String OUTPUT2 = "organization.txt";
 
@@ -31,7 +31,6 @@ public class DescrExtra {
         DataInputStream in = new DataInputStream(fstream);
         BufferedReader br = new BufferedReader(new InputStreamReader(in));
         String strLine;
-        String file = "";
         while ((strLine = br.readLine()) != null){
                String[] temp = strLine.split("\t");
                if(temp[temp.length-1].equalsIgnoreCase("P")) 
