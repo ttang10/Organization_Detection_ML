@@ -41,12 +41,11 @@ public class Generator {
                file += temp[18] + ",";
                file += temp[24] + ",";
                file += temp[temp.length-1] + ",";
-               String formatted = "# " + temp[10];
                ArrayList<String> bg1 = new ArrayList<String>();
                bg1.add("#");
                bg1.add("i");
                DetectTerm t1 = new DetectTerm(bg1);
-               if(t1.detect(formatted))
+               if(t1.detect(temp[10]))
             	   file += "True,";
                else
             	   file += "False,";
@@ -54,7 +53,7 @@ public class Generator {
                bg2.add("#");
                bg2.add("i'm");
                t1 = new DetectTerm(bg2);
-               if(t1.detect(formatted))
+               if(t1.detect(temp[10]))
             	   file += "True,";
                else
             	   file += "False,";
@@ -62,7 +61,7 @@ public class Generator {
                bg3.add("i");
                bg3.add("am");
                t1 = new DetectTerm(bg3);
-               if(t1.detect(formatted))
+               if(t1.detect(temp[10]))
             	   file += "True,";
                else
             	   file += "False,";
@@ -70,7 +69,7 @@ public class Generator {
                bg4.add("internet");
                bg4.add("marketing");
                t1 = new DetectTerm(bg4);
-               if(t1.detect(formatted))
+               if(t1.detect(temp[10]))
             	   file += "True,";
                else
             	   file += "False,";
@@ -78,7 +77,7 @@ public class Generator {
                bg5.add("#");
                bg5.add("internet");
                t1 = new DetectTerm(bg5);
-               if(t1.detect(formatted))
+               if(t1.detect(temp[10]))
             	   file += "True,";
                else
             	   file += "False,";
@@ -86,7 +85,7 @@ public class Generator {
                bg6.add("i");
                bg6.add("love");
                t1 = new DetectTerm(bg6);
-               if(t1.detect(formatted))
+               if(t1.detect(temp[10]))
             	   file += "True,";
                else
             	   file += "False,";
@@ -94,7 +93,7 @@ public class Generator {
                bg7.add("#");
                bg7.add("we");
                t1 = new DetectTerm(bg7);
-               if(t1.detect(formatted))
+               if(t1.detect(temp[10]))
             	   file += "True,";
                else
             	   file += "False,";
@@ -102,7 +101,7 @@ public class Generator {
                bg8.add("from");
                bg8.add("the");
                t1 = new DetectTerm(bg8);
-               if(t1.detect(formatted))
+               if(t1.detect(temp[10]))
             	   file += "True,";
                else
             	   file += "False,";
@@ -110,7 +109,7 @@ public class Generator {
                bg9.add("official");
                bg9.add("twitter");
                t1 = new DetectTerm(bg9);
-               if(t1.detect(formatted))
+               if(t1.detect(temp[10]))
             	   file += "True,";
                else
             	   file += "False,";
@@ -118,91 +117,91 @@ public class Generator {
                bg10.add("the");
                bg10.add("official");
                t1 = new DetectTerm(bg10);
-               if(t1.detect(formatted))
+               if(t1.detect(temp[10]))
             	   file += "True,";
                else
             	   file += "False,";
                ArrayList<String> ug1 = new ArrayList<String>();
                ug1.add("i");
                t1 = new DetectTerm(ug1);
-               if(t1.detect(formatted))
+               if(t1.detect(temp[10]))
             	   file += "True,";
                else
             	   file += "False,";
                ArrayList<String> ug2 = new ArrayList<String>();
                ug2.add("internet");
                t1 = new DetectTerm(ug2);
-               if(t1.detect(formatted))
+               if(t1.detect(temp[10]))
             	   file += "True,";
                else
             	   file += "False,";
                ArrayList<String> ug3 = new ArrayList<String>();
                ug3.add("my");
                t1 = new DetectTerm(ug3);
-               if(t1.detect(formatted))
+               if(t1.detect(temp[10]))
             	   file += "True,";
                else
             	   file += "False,";
                ArrayList<String> ug4 = new ArrayList<String>();
                ug4.add("marketing");
                t1 = new DetectTerm(ug4);
-               if(t1.detect(formatted))
+               if(t1.detect(temp[10]))
             	   file += "True,";
                else
             	   file += "False,";
                ArrayList<String> ug5 = new ArrayList<String>();
                ug5.add("i'm");
                t1 = new DetectTerm(ug5);
-               if(t1.detect(formatted))
+               if(t1.detect(temp[10]))
             	   file += "True,";
                else
             	   file += "False,";
                ArrayList<String> ug6 = new ArrayList<String>();
                ug6.add("business");
                t1 = new DetectTerm(ug6);
-               if(t1.detect(formatted))
+               if(t1.detect(temp[10]))
             	   file += "True,";
                else
             	   file += "False,";
                ArrayList<String> ug7 = new ArrayList<String>();
                ug7.add("from");
                t1 = new DetectTerm(ug7);
-               if(t1.detect(formatted))
+               if(t1.detect(temp[10]))
             	   file += "True,";
                else
             	   file += "False,";
                ArrayList<String> ug8 = new ArrayList<String>();
                ug8.add("twitter");
                t1 = new DetectTerm(ug8);
-               if(t1.detect(formatted))
+               if(t1.detect(temp[10]))
             	   file += "True,";
                else
             	   file += "False,";
                ArrayList<String> ug9 = new ArrayList<String>();
-               ug9.add("officail");
+               ug9.add("official");
                t1 = new DetectTerm(ug9);
-               if(t1.detect(formatted))
+               if(t1.detect(temp[10]))
             	   file += "True,";
                else
             	   file += "False,";
                ArrayList<String> ug10 = new ArrayList<String>();
                ug10.add("news");
                t1 = new DetectTerm(ug10);
-               if(t1.detect(formatted))
+               if(t1.detect(temp[10]))
             	   file += "True,";
                else
             	   file += "False,";
                ArrayList<String> ug11 = new ArrayList<String>();
                ug11.add("follow");
                t1 = new DetectTerm(ug11);
-               if(t1.detect(formatted))
+               if(t1.detect(temp[10]))
             	   file += "True,";
                else
             	   file += "False,";
                ArrayList<String> ug12 = new ArrayList<String>();
                ug12.add("by");
                t1 = new DetectTerm(ug12);
-               if(t1.detect(formatted))
+               if(t1.detect(temp[10]))
             	   file += "True,";
                else
             	   file += "False,";

@@ -20,9 +20,11 @@ public class DetectChar extends DetectGrams {
 			chars += grams.get(i);
 		}
 		String[] temp = sentence.split("[.?!\";() ]");
-		for(int i=0;i<temp.length;i++)
-			if(temp[i].contains(chars))
+		for(int i=0;i<temp.length;i++) {
+			String t = "#"+temp[i];
+			if(t.contains(chars))
 				return true;
+		}
 		// TODO Auto-generated method stub
 		return false;
 	}

@@ -15,6 +15,7 @@ public class DetectTerm extends DetectGrams {
 
 	@Override
 	public boolean detect(String sentence) {
+		sentence = "# " + sentence;
 		String[] temp = sentence.split("[.?!\";() ]");
 		for(int i=0;i<temp.length;i++){
 			if(temp[i].equalsIgnoreCase(grams.get(0))) {
