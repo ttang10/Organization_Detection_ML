@@ -73,8 +73,8 @@ public class Ngrams {
         //sentences.add("The company refused to protect the British public.");
         //sentences.add("The Chinese government plans are met.");
        
-        ArrayList<sentence> sentencesDone = findSentenceFrequency(sentences);
-        ArrayList<word> wordsDone = findWordFrequency(words);
+        //ArrayList<sentence> sentencesDone = findSentenceFrequency(sentences);
+        //ArrayList<word> wordsDone = findWordFrequency(words);
         
         //generator.sentences2HTML(sentencesDone);
         //generator.sentences2Txt(sentencesDone, wordsDone);

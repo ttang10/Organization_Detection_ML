@@ -44,7 +44,7 @@ public class Executor {
     public static HashMap<String, Integer> unigrams_o = new HashMap<String, Integer>();
     /*List map for all them ngrams*/
     public static HashMap<String, Integer> listMap_o = new HashMap<String, Integer>();
-    /*sentences to analize*/
+    /*sentences to analyze*/
     public static ArrayList<String> sentences_o = new ArrayList<String>();
     
     ArrayList<nchar> list2_o = new ArrayList<nchar>();
@@ -65,7 +65,7 @@ public class Executor {
     public static HashMap<String, Integer> unigrams_p = new HashMap<String, Integer>();
     /*List map for all them ngrams*/
     public static HashMap<String, Integer> listMap_p = new HashMap<String, Integer>();
-    /*sentences to analize*/
+    /*sentences to analyze*/
     public static ArrayList<String> sentences_p = new ArrayList<String>();
     
     ArrayList<nchar> list2_p = new ArrayList<nchar>();
@@ -95,7 +95,7 @@ public class Executor {
         DataInputStream in = new DataInputStream(fstream);
         BufferedReader br = new BufferedReader(new InputStreamReader(in));
         String strLine;
-        //String file = "";
+
         while ((strLine = br.readLine()) != null){
                String[] temp = strLine.split("\t");
                if(temp[temp.length-1].equalsIgnoreCase("P")||temp[temp.length-1].equalsIgnoreCase("O")) 
@@ -113,7 +113,7 @@ public class Executor {
         } catch (IOException e) {
         }
         
-        System.out.println("Descriptions are wirtten, please find the output file in the folder.");
+        System.out.println("Unknown profiles removed...");
         
         // write descriptions of personal and organizations into files respectively
         ArrayList<String> persons =  new ArrayList<String>();
@@ -163,17 +163,10 @@ public class Executor {
         } catch (IOException e) {
         }
         
-        System.out.println("Files are wirtten, please find the output files in the folder.");
+        System.out.println("Descriptions are classified...");
         
-        // write ngrams map
-		
-		//generateTxt generator = new generateTxt();
         System.out.print("=> Generating file list ... ");
-        /*create the file list*/
-        /*
-        for(int i=1; i<=20; i++){
-            fileList.add("C:\\CS\\CS 595 ML\\projectbus\\test"+i+".txt");
-        }*/
+
         fileList_o.add("organization.txt");
         
         System.out.print("done.\n");
@@ -181,12 +174,7 @@ public class Executor {
          /*analyze the unigrams and bigrams for each given file*/
        
         /*load up desired files*/ 
-        //for(int i=0; i<20; i++){
-          //String article = readFile(fileList.get(i)); 
-          /*analyze the unigrams and bigrams for each given file*/
-          //parseUnigrams(article);
-          //parseBigrams(article);
-        //}
+        
         String article_o = readFile(fileList_o.get(0));
         parseUnigrams_o(article_o);
         parseBigrams_o(article_o);
@@ -199,13 +187,6 @@ public class Executor {
         System.out.print("done.\n");
         System.out.print("=> Analyzing sentences and words... ");
         
-        //sentences.add("The company refused to protect the British public.");
-        //sentences.add("The Chinese government plans are met.");
-       
-        //ArrayList<sentence> sentencesDone_o = findSentenceFrequency(sentences_o);
-        //ArrayList<word> wordsDone_o = findWordFrequency(words_o);
-        
-        //generator.sentences2Txt(sentencesDone, wordsDone, "sentences_o.txt");
         System.out.print("done.\n");
 
         System.out.print("=> Generating text reports for organization ... ");
@@ -214,7 +195,6 @@ public class Executor {
         
         generateTxt.unigrams2Txt(unigrams_o, "unigrams_o.txt");
         generateTxt.bigrams2Txt(listMap_o, "bigrams_o.txt");
-        //generateTxt.unicharas2Txt(unicharas_o, "unicharas_o.txt");
         generateTxt.bicharas2Txt(listMap2_o, "bicharas_o.txt");
         generateTxt.tricharas2Txt(listMap3_o, "tricharas_o.txt");
         
@@ -225,10 +205,6 @@ public class Executor {
         
         System.out.print("=> Generating file list ... ");
         /*create the file list*/
-        /*
-        for(int i=1; i<=20; i++){
-            fileList.add("C:\\CS\\CS 595 ML\\projectbus\\test"+i+".txt");
-        }*/
         fileList_p.add("personal.txt");
         
         System.out.print("done.\n");
@@ -236,31 +212,18 @@ public class Executor {
          /*analyze the unigrams and bigrams for each given file*/
        
         /*load up desired files*/ 
-        //for(int i=0; i<20; i++){
-          //String article = readFile(fileList.get(i)); 
-          /*analyze the unigrams and bigrams for each given file*/
-          //parseUnigrams(article);
-          //parseBigrams(article);
-        //}
+        
         String article_p = readFile(fileList_p.get(0));
         parseUnigrams_p(article_p);
         parseBigrams_p(article_p);
         System.out.print("done.\n");
         System.out.print("=> Analyzing sentences and words... ");
         
-        //String article = readFile(fileList.get(0));
         parseBicharas_p(article_p);
         parseTricharas_p(article_p);
         System.out.print("done.\n");
         System.out.print("=> Analyzing sentences and words... ");
         
-        //sentences.add("The company refused to protect the British public.");
-        //sentences.add("The Chinese government plans are met.");
-       
-        //ArrayList<sentence> sentencesDone_p = findSentenceFrequency(sentences_p);
-        //ArrayList<word> wordsDone_p = findWordFrequency(words_p);
-        
-        //generator.sentences2Txt(sentencesDone, wordsDone, "sentences_o.txt");
         System.out.print("done.\n");
 
         System.out.print("=> Generating text reports for personal ... ");
@@ -269,7 +232,6 @@ public class Executor {
         
         generateTxt.unigrams2Txt(unigrams_p, "unigrams_p.txt");
         generateTxt.bigrams2Txt(listMap_p, "bigrams_p.txt");
-        //generateTxt.unicharas2Txt(unicharas_o, "unicharas_o.txt");
         generateTxt.bicharas2Txt(listMap2_p, "bicharas_p.txt");
         generateTxt.tricharas2Txt(listMap3_p, "tricharas_p.txt");
         
@@ -341,8 +303,6 @@ public class Executor {
         for(int i=0;i<check.size();i++)
         	body2 += check.get(i);
         
-        //File newfile = new File(CHECKED_FILE);
-        
         try {
         	PrintWriter out = new PrintWriter(CHECKED_FILE);
             out.write(body2);
@@ -350,7 +310,7 @@ public class Executor {
         } catch (IOException e) {
         }
         
-        System.out.println("File is wirtten, please find the CHECKED_FILE file in the folder.");
+        System.out.println("URL are checked...");
         
         csvGenerator(CHECKED_FILE, FILTERED_FILE, uniFeatures, biFeatures);
 
@@ -383,11 +343,8 @@ public class Executor {
             }
        }
         
-       for (String key : unigrams_o.keySet()){   
-            //String newKey = key;
-           
+       for (String key : unigrams_o.keySet())   
             unigrams_o.put(key, unigrams_o.get(key));
-        }
     }
     
     /*method parses the text to the global hashmap of ngrams*/
@@ -395,14 +352,11 @@ public class Executor {
           String[] sentences = s.split("[.?!\";()]");
         
         /*we don't need any spaces, trim it*/
-        for(int i=0; i<sentences.length; i++){
+        for(int i=0; i<sentences.length; i++)
             sentences[i] = sentences[i].trim();
-            System.out.println(sentences[i]);
-        }
         for(int i=0; i<sentences.length; i++){   
             String words[] = sentences[i].toLowerCase().split(" ");
             
-            //int n =2;
             for(int j =0; j<words.length; j++){
                
               /*get the ngram we're currently iterating on*/
@@ -421,25 +375,18 @@ public class Executor {
         }
         
         //calculate the probability 
-        for (String key : listMap_o.keySet()){   
-            //String newKey = key;
-         //   double newValue = listMap.get(key)/listMap.size();
+        for (String key : listMap_o.keySet())
             listMap_o.put(key, listMap_o.get(key));
-        }
     }
     
     public static void parseBicharas_o(String s){
         String[] words = s.split("[.?!\";() ]");
       
       /*we don't need any spaces, trim it*/
-      for(int i=0; i<words.length; i++){
+      for(int i=0; i<words.length; i++)
           words[i] = words[i].trim();
-          System.out.println(words[i]);
-      }
       for(int i=0; i<words.length; i++){   
           words[i] = words[i].toLowerCase();
-          
-          //int n =2;
           for(int j =0; j<words[i].length(); j++){
              
             /*get the ngram we're currently iterating on*/
@@ -458,25 +405,18 @@ public class Executor {
       }
       
       //calculate the probability 
-      for (String key : listMap_o.keySet()){   
-          //String newKey = key;
-       //   double newValue = listMap.get(key)/listMap.size();
+      for (String key : listMap_o.keySet()) 
           listMap_o.put(key, listMap_o.get(key));
-      }
   }
     
     public static void parseTricharas_o(String s){
         String[] words = s.split("[.?!\";() ]");
       
       /*we don't need any spaces, trim it*/
-      for(int i=0; i<words.length; i++){
+      for(int i=0; i<words.length; i++)
           words[i] = words[i].trim();
-          System.out.println(words[i]);
-      }
       for(int i=0; i<words.length; i++){   
           words[i] = words[i].toLowerCase();
-          
-          //int n =3;
           for(int j =0; j<words[i].length(); j++){
              
             /*get the ngram we're currently iterating on*/
@@ -497,21 +437,12 @@ public class Executor {
       }
       
       //calculate the probability 
-      for (String key : listMap_o.keySet()){   
-          //String newKey = key;
-       //   double newValue = listMap.get(key)/listMap.size();
+      for (String key : listMap_o.keySet())
           listMap_o.put(key, listMap_o.get(key));
-      }
-      for (String key : listMap2_o.keySet()){   
-          //String newKey = key;
-       //   double newValue = listMap.get(key)/listMap.size();
+      for (String key : listMap2_o.keySet())
           listMap2_o.put(key, listMap2_o.get(key));
-      }
-      for (String key : listMap3_o.keySet()){   
-          //String newKey = key;
-       //   double newValue = listMap.get(key)/listMap.size();
+      for (String key : listMap3_o.keySet())
           listMap3_o.put(key, listMap3_o.get(key));
-      }
       
   }
 
@@ -521,9 +452,7 @@ public class Executor {
          ArrayList<sentence> done = new ArrayList<sentence>();
          
          
-         for(int i=0; i<sentences.size(); i++){
-             /*analize the sentence with unigrams first*/
-           
+         for(int i=0; i<sentences.size(); i++){           
             
              sentence temp = new sentence();  
              
@@ -534,7 +463,7 @@ public class Executor {
            
          }
            for(int i=0; i<sentences.size(); i++){
-             /*analize the sentence with unigrams first*/
+             /*analyze the sentence with unigrams first*/
            
             
              sentence temp = new sentence();  
@@ -552,7 +481,7 @@ public class Executor {
          ArrayList<word> done = new ArrayList<word>();
          
          for(int i=0; i<words.size(); i++){
-             /*analize the sentence with unigrams first*/
+             /*analyze the sentence with unigrams first*/
            
             
              word temp = new word();  
@@ -565,7 +494,7 @@ public class Executor {
          }         
          
          for(int i=0; i<words.size(); i++){
-             /*analize the sentence with unigrams first*/
+             /*analyze the sentence with unigrams first*/
            
             
              word temp = new word();  
@@ -577,7 +506,7 @@ public class Executor {
            
          }
            for(int i=0; i<sentences_o.size(); i++){
-             /*analize the sentence with unigrams first*/
+             /*analyze the sentence with unigrams first*/
            
             
              word temp = new word();  
@@ -650,9 +579,7 @@ public class Executor {
             }
        }
         
-       for (String key : unigrams_p.keySet()){   
-            //String newKey = key;
-           
+       for (String key : unigrams_p.keySet()){           
             unigrams_p.put(key, unigrams_p.get(key));
         }
     }
@@ -668,8 +595,6 @@ public class Executor {
         }
         for(int i=0; i<sentences.length; i++){   
             String words[] = sentences[i].toLowerCase().split(" ");
-            
-            //int n =2;
             for(int j =0; j<words.length; j++){
                
               /*get the ngram we're currently iterating on*/
@@ -688,25 +613,19 @@ public class Executor {
         }
         
         //calculate the probability 
-        for (String key : listMap_p.keySet()){   
-            //String newKey = key;
-         //   double newValue = listMap.get(key)/listMap.size();
+        for (String key : listMap_p.keySet())
             listMap_p.put(key, listMap_p.get(key));
-        }
     }
     
     public static void parseBicharas_p(String s){
         String[] words = s.split("[.?!\";() ]");
       
       /*we don't need any spaces, trim it*/
-      for(int i=0; i<words.length; i++){
+      for(int i=0; i<words.length; i++)
           words[i] = words[i].trim();
-          System.out.println(words[i]);
-      }
       for(int i=0; i<words.length; i++){   
           words[i] = words[i].toLowerCase();
           
-          //int n =2;
           for(int j =0; j<words[i].length(); j++){
              
             /*get the ngram we're currently iterating on*/
@@ -725,11 +644,8 @@ public class Executor {
       }
       
       //calculate the probability 
-      for (String key : listMap_p.keySet()){   
-          String newKey = key;
-       //   double newValue = listMap.get(key)/listMap.size();
+      for (String key : listMap_p.keySet())
           listMap_p.put(key, listMap_p.get(key));
-      }
   }
     
     public static void parseTricharas_p(String s){
@@ -742,8 +658,6 @@ public class Executor {
       }
       for(int i=0; i<words.length; i++){   
           words[i] = words[i].toLowerCase();
-          
-          //int n =3;
           for(int j =0; j<words[i].length(); j++){
              
             /*get the ngram we're currently iterating on*/
@@ -764,22 +678,12 @@ public class Executor {
       }
       
       //calculate the probability 
-      for (String key : listMap_p.keySet()){   
-          //String newKey = key;
-       //   double newValue = listMap.get(key)/listMap.size();
+      for (String key : listMap_p.keySet())
           listMap_p.put(key, listMap_p.get(key));
-      }
-      for (String key : listMap2_p.keySet()){   
-          //String newKey = key;
-       //   double newValue = listMap.get(key)/listMap.size();
+      for (String key : listMap2_p.keySet())
           listMap2_p.put(key, listMap2_p.get(key));
-      }
-      for (String key : listMap3_p.keySet()){   
-          //String newKey = key;
-       //   double newValue = listMap.get(key)/listMap.size();
-          listMap3_p.put(key, listMap3_p.get(key));
-      }
-      
+      for (String key : listMap3_p.keySet())
+          listMap3_p.put(key, listMap3_p.get(key));      
   }
 
     
@@ -789,7 +693,7 @@ public class Executor {
          
          
          for(int i=0; i<sentences.size(); i++){
-             /*analize the sentence with unigrams first*/
+             /*analyze the sentence with unigrams first*/
            
             
              sentence temp = new sentence();  
@@ -801,7 +705,7 @@ public class Executor {
            
          }
            for(int i=0; i<sentences.size(); i++){
-             /*analize the sentence with unigrams first*/
+             /*analyze the sentence with unigrams first*/
            
             
              sentence temp = new sentence();  
@@ -819,7 +723,7 @@ public class Executor {
          ArrayList<word> done = new ArrayList<word>();
          
          for(int i=0; i<words.size(); i++){
-             /*analize the sentence with unigrams first*/
+             /*analyze the sentence with unigrams first*/
            
             
              word temp = new word();  
@@ -832,7 +736,7 @@ public class Executor {
          }         
          
          for(int i=0; i<words.size(); i++){
-             /*analize the sentence with unigrams first*/
+             /*analyze the sentence with unigrams first*/
            
             
              word temp = new word();  
@@ -844,7 +748,7 @@ public class Executor {
            
          }
            for(int i=0; i<sentences_p.size(); i++){
-             /*analize the sentence with unigrams first*/
+             /*analyze the sentence with unigrams first*/
            
             
              word temp = new word();  
@@ -957,26 +861,18 @@ public class Executor {
     	  ArrayList<String> merged = new ArrayList<String>();
           for(String key: map1.keySet()) {
         	  if(map1.get(key) >= TOTAL_PROFILES_NUMBER/NORMALIZED_MIN__OCC_FAC) {
-        		  if(!map2.containsKey(key)) {
-        			  //System.out.println(key);
+        		  if(!map2.containsKey(key)) 
         			  merged.add(key);
-        		  }
-        		  else if(map1.get(key) - map2.get(key) >= TOTAL_PROFILES_NUMBER/NORMALIZED_MIN__DIF_FAC) {
-        			  //System.out.println(key);
+        		  else if(map1.get(key) - map2.get(key) >= TOTAL_PROFILES_NUMBER/NORMALIZED_MIN__DIF_FAC) 
         			  merged.add(key);
-        		  }
         	  }
           }
           for(String key: map2.keySet()) {
         	  if(map2.get(key) >= TOTAL_PROFILES_NUMBER/NORMALIZED_MIN__OCC_FAC) {
-        		  if(!map1.containsKey(key)) {
-        			  //System.out.println(key);
+        		  if(!map1.containsKey(key)) 
         			  merged.add(key);
-        		  }
-        		  else if(map2.get(key) - map1.get(key) >= TOTAL_PROFILES_NUMBER/NORMALIZED_MIN__DIF_FAC) {
-        			  //System.out.println(key);
+        		  else if(map2.get(key) - map1.get(key) >= TOTAL_PROFILES_NUMBER/NORMALIZED_MIN__DIF_FAC) 
         			  merged.add(key);
-        		  }
         	  }
           }
           return merged;
@@ -984,7 +880,6 @@ public class Executor {
       
       // check if url contains screen name
       public static boolean urlCheck(String id, String url) {
-  		//System.out.println(id + " ********** " + url);
   		if(url.toLowerCase().contains(id.toLowerCase()))
   			return true;
   		return false;
@@ -1021,12 +916,7 @@ public class Executor {
                  file += temp[temp.length-1] + ",";
                  
                  for(int i=0;i<unigrams.size();i++) {
-                	 //System.out.println("uni************"+unigrams.get(i));
-                	 //String[] t = unigrams.get(i).split(" ");
                 	 ArrayList<String> ug = new ArrayList<String>();
-                	 /*for(int j=0;j<t.length;j++) {
-                		 ug.add(t[j]);
-                	 }*/
                 	 ug.add(unigrams.get(i));
                 	 DetectTerm dt = new DetectTerm(ug);
                 	 if(dt.detect(temp[10]))
@@ -1036,7 +926,6 @@ public class Executor {
                  }
                  
                  for(int i=0;i<bigrams.size();i++) {
-                	 System.out.println("bi*************"+bigrams.get(i)+"***********");
                 	 String[] t = bigrams.get(i).split(" ");
                 	 ArrayList<String> bg = new ArrayList<String>();
                 	 bg.add(t[0]);
@@ -1044,9 +933,6 @@ public class Executor {
                 		 bg.add(" ");
                 	 else
                 		 bg.add(t[1]);
-                	 /*for(int j=0;j<t.length;j++) {
-                		 bg.add(t[j]);
-                	 }*/
                 	 DetectTerm dt = new DetectTerm(bg);
                 	 if(dt.detect(temp[10]))
                 		 file += "True,";
@@ -1069,7 +955,7 @@ public class Executor {
           } catch (IOException e) {
           }
           
-          System.out.println("File is wirtten, please find the output file in the folder.");
+          System.out.println("CSV file is written, all work is done.");
       }
 
 }
