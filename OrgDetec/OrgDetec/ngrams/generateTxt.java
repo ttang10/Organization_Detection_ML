@@ -12,29 +12,29 @@ import java.util.HashMap;
 
 public class generateTxt {
 	
-    generateTxt(){}
+    public generateTxt(){}
     
-    public static void unigrams2Txt(HashMap<String, Integer> input) throws FileNotFoundException{
-        generate(input, "unigrams.txt", "gram");  
+    public static void unigrams2Txt(HashMap<String, Integer> input, String output) throws FileNotFoundException{
+        generate(input, output, "gram");  
     }
     
-    public static void bigrams2Txt(HashMap<String, Integer> input) throws FileNotFoundException{
-        generate(input, "bigrams.txt", "gram");  
+    public static void bigrams2Txt(HashMap<String, Integer> input, String output) throws FileNotFoundException{
+        generate(input, output, "gram");  
     }
     
-    public static void unicharas2Txt (HashMap<String, Integer> input) throws FileNotFoundException{
-        generate(input, "unicharas.txt", "char");  
+    public static void unicharas2Txt (HashMap<String, Integer> input, String output) throws FileNotFoundException{
+        generate(input, output, "char");  
     }
     
-    public static void bicharas2Txt (HashMap<String, Integer> input) throws FileNotFoundException{
-        generate(input, "bicharas.txt", "char");  
+    public static void bicharas2Txt (HashMap<String, Integer> input, String output) throws FileNotFoundException{
+        generate(input, output, "char");  
     }
     
-    public static void tricharas2Txt(HashMap<String, Integer> input) throws FileNotFoundException{
-        generate(input, "tricharas.txt", "char");  
+    public static void tricharas2Txt(HashMap<String, Integer> input, String output) throws FileNotFoundException{
+        generate(input, output, "char");  
     }
     
-    public void sentences2Txt(ArrayList<sentence> sentences, ArrayList<word> words) throws FileNotFoundException{
+    public void sentences2Txt(ArrayList<sentence> sentences, ArrayList<word> words, String output) throws FileNotFoundException{
                
          String body1 ="";
          
@@ -48,7 +48,7 @@ public class generateTxt {
             
          }
         try {
-        	PrintWriter out = new PrintWriter("sentences.txt");
+        	PrintWriter out = new PrintWriter(output);
             out.write(body1);
             out.close();
         } catch (IOException e) {

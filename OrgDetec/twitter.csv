@@ -1,78 +1,4 @@
-@relation twitter
-
-@attribute verified {False,True}
-@attribute followers_count numeric
-@attribute protected {False,True}
-@attribute statuses_count numeric
-@attribute friends_count numeric
-@attribute notification {False,None}
-@attribute profile_background_tile {False,True}
-@attribute favourites_count numeric
-@attribute following {False,None}
-@attribute url_contain_name {False,True}
-@attribute unigram0 {False,True}
-@attribute unigram1 {False,True}
-@attribute unigram2 {False,True}
-@attribute unigram3 {False,True}
-@attribute unigram4 {False,True}
-@attribute unigram5 {False,True}
-@attribute unigram6 {False,True}
-@attribute unigram7 {True,False}
-@attribute unigram8 {False,True}
-@attribute unigram9 {False,True}
-@attribute unigram10 {False,True}
-@attribute unigram11 {False,True}
-@attribute unigram12 {False,True}
-@attribute unigram13 {False,True}
-@attribute unigram14 {False,True}
-@attribute unigram15 {False,True}
-@attribute unigram16 {False,True}
-@attribute unigram17 {False,True}
-@attribute unigram18 {False,True}
-@attribute unigram19 {False,True}
-@attribute unigram20 {False,True}
-@attribute unigram21 {False,True}
-@attribute unigram22 {False,True}
-@attribute unigram23 {True,False}
-@attribute unigram24 {False,True}
-@attribute unigram25 {True,False}
-@attribute unigram26 {False,True}
-@attribute unigram27 {False,True}
-@attribute unigram28 {False,True}
-@attribute unigram29 {False,True}
-@attribute unigram30 {False,True}
-@attribute unigram31 {False,True}
-@attribute unigram32 {False,True}
-@attribute unigram33 {False,True}
-@attribute unigram34 {False,True}
-@attribute unigram35 {False,True}
-@attribute unigram36 {False,True}
-@attribute unigram37 {False,True}
-@attribute unigram38 {False,True}
-@attribute bigram0 {False,True}
-@attribute bigram1 {False,True}
-@attribute bigram2 {False,True}
-@attribute bigram3 {False,True}
-@attribute bigram4 {False,True}
-@attribute bigram5 {False,True}
-@attribute bigram6 {False,True}
-@attribute bigram7 {False,True}
-@attribute bigram8 {False,True}
-@attribute bigram9 {False,True}
-@attribute bigram10 {False,True}
-@attribute bigram11 {False}
-@attribute bigram12 {False,True}
-@attribute bigram13 {False,True}
-@attribute bigram14 {False,True}
-@attribute bigram15 {False,True}
-@attribute bigram16 {False,True}
-@attribute bigram17 {False,True}
-@attribute bigram18 {False,True}
-@attribute bigram19 {False,True}
-@attribute bigram20 {False,True}
-@attribute class {P,O}
-
-@data
+verified,followers_count,protected,statuses_count,friends_count,notification,profile_background_tile,favourites_count,following,url_contain_name,unigram0,unigram1,unigram2,unigram3,unigram4,unigram5,unigram6,unigram7,unigram8,unigram9,unigram10,unigram11,unigram12,unigram13,unigram14,unigram15,unigram16,unigram17,unigram18,unigram19,unigram20,unigram21,unigram22,unigram23,unigram24,unigram25,unigram26,unigram27,unigram28,unigram29,unigram30,unigram31,unigram32,unigram33,unigram34,unigram35,unigram36,unigram37,unigram38,bigram0,bigram1,bigram2,bigram3,bigram4,bigram5,bigram6,bigram7,bigram8,bigram9,bigram10,bigram11,bigram12,bigram13,bigram14,bigram15,bigram16,bigram17,bigram18,bigram19,bigram20,class
 False,895829,False,4209,574,False,False,614,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,P
 False,922633,False,3420,242,False,False,504,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,P
 False,14062,False,7060,255,None,False,449,None,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,O
@@ -1174,7 +1100,7 @@ False,17824,False,2390,17976,False,True,27,False,False,False,False,False,True,Fa
 False,21347,False,193,23216,False,True,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,P
 False,18605,False,219,19028,False,False,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,P
 False,23016,False,2357,21354,False,True,22,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,P
-False,10951,False,5909,8282,False,False,14,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,?
+False,10951,False,5909,8282,False,False,14,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,
 False,14161,False,133,14123,False,True,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,O
 False,22120,False,3607,19298,False,False,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,P
 False,12138,False,6129,11129,None,False,0,None,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,P
@@ -1307,7 +1233,7 @@ False,20036,False,116,43,None,True,0,None,True,False,False,False,False,False,Fal
 False,11913,False,29,1,False,False,0,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,O
 False,9809,False,1799,9036,False,False,289,False,True,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,P
 False,10267,False,8134,10289,False,False,5,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,O
-False,16142,False,388,15568,False,False,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,?
+False,16142,False,388,15568,False,False,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,
 False,9987,False,552,1877,False,False,0,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,O
 False,115969,False,6129,51615,False,True,8,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,O
 False,11630,False,463,7418,None,True,44,None,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,P

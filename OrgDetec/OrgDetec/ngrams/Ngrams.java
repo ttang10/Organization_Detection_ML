@@ -77,18 +77,18 @@ public class Ngrams {
         ArrayList<word> wordsDone = findWordFrequency(words);
         
         //generator.sentences2HTML(sentencesDone);
-        generator.sentences2Txt(sentencesDone, wordsDone);
+        //generator.sentences2Txt(sentencesDone, wordsDone);
         System.out.print("done.\n");
 
         System.out.print("=> Generating text raport ... ");
         
         /*generators gonna generate*/
         
-        generateTxt.unigrams2Txt(unigrams);
-        generateTxt.bigrams2Txt(listMap);
-        generateTxt.unicharas2Txt(unicharas);
-        generateTxt.bicharas2Txt(listMap2);
-        generateTxt.tricharas2Txt(listMap3);
+        generateTxt.unigrams2Txt(unigrams, "unigrams.txt");
+        generateTxt.bigrams2Txt(listMap, "bigrams.txt");
+        //generateTxt.unicharas2Txt(unicharas);
+        generateTxt.bicharas2Txt(listMap2, "bicharas.txt");
+        generateTxt.tricharas2Txt(listMap3, "tricharas.txt");
         
         System.out.print("done.\n");
         
