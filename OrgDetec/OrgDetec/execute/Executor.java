@@ -24,11 +24,11 @@ import ngrams.word;
 
 public class Executor {
 	
-	final static int TOTAL_PROFILES_NUMBER = 3000;
-	final static int NORMALIZED_MIN__OCC_FAC = 50;
-	final static int NORMALIZED_MIN__DIF_FAC = 50;
+	final static int TOTAL_PROFILES_NUMBER = 6000;
+	final static int NORMALIZED_MIN__OCC_FAC = 100;
+	final static int NORMALIZED_MIN__DIF_FAC = 100;
 	
-	final static String FILENAME = "3000 labeled.txt";
+	final static String FILENAME = "6016 labeled.txt";
 	final static String REFINED_FILE = "refined.txt";
 	final static String OUTPUT1 = "personal.txt";
 	final static String OUTPUT2 = "organization.txt";
@@ -310,7 +310,7 @@ public class Executor {
         } catch (IOException e) {
         }
         
-        System.out.println("URL are checked...");
+        System.out.println("URLs are checked...");
         
         csvGenerator(CHECKED_FILE, FILTERED_FILE, uniFeatures, biFeatures);
 
@@ -589,10 +589,8 @@ public class Executor {
           String[] sentences = s.split("[.?!\";()]");
         
         /*we don't need any spaces, trim it*/
-        for(int i=0; i<sentences.length; i++){
+        for(int i=0; i<sentences.length; i++)
             sentences[i] = sentences[i].trim();
-            System.out.println(sentences[i]);
-        }
         for(int i=0; i<sentences.length; i++){   
             String words[] = sentences[i].toLowerCase().split(" ");
             for(int j =0; j<words.length; j++){
@@ -652,10 +650,8 @@ public class Executor {
         String[] words = s.split("[.?!\";() ]");
       
       /*we don't need any spaces, trim it*/
-      for(int i=0; i<words.length; i++){
+      for(int i=0; i<words.length; i++)
           words[i] = words[i].trim();
-          System.out.println(words[i]);
-      }
       for(int i=0; i<words.length; i++){   
           words[i] = words[i].toLowerCase();
           for(int j =0; j<words[i].length(); j++){
@@ -904,6 +900,8 @@ public class Executor {
           file += ",class\n";
           while ((strLine = br.readLine()) != null){
                  String[] temp = strLine.split("\t");
+                 // checking format
+                 if(temp.length==28) {
                  file += temp[1] + ",";
                  file += temp[4] + ",";
                  file += temp[5] + ",";
@@ -913,7 +911,7 @@ public class Executor {
                  file += temp[17] + ",";
                  file += temp[18] + ",";
                  file += temp[24] + ",";
-                 file += temp[temp.length-1] + ",";
+                 file += temp[27] + ",";
                  
                  for(int i=0;i<unigrams.size();i++) {
                 	 ArrayList<String> ug = new ArrayList<String>();
@@ -939,8 +937,8 @@ public class Executor {
                 	 else
                 		 file += "False,";
                  }
-                 
                  file += temp[26].toUpperCase() + "\n";
+                 }
           }
           
           System.out.println("File loaded.");

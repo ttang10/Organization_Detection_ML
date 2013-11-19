@@ -1,8 +1,6 @@
 package ngrams;
 
-import java.io.BufferedWriter;
 import java.io.FileNotFoundException;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
@@ -41,7 +39,6 @@ public class generateTxt {
          for(sentence temp : sentences){
             
               body1+=temp.getFullSentence();
-              int i=0;
               for(int x=0; x<temp.getParts().size(); x++){
                    body1+= temp.getParts().get(x) + " - " + temp.getFrequencies().get(x) + "/" + temp.getTotals().get(x) + "\n";
               }
@@ -59,7 +56,6 @@ public class generateTxt {
         for(word temp : words){
             
             body2+=temp.getFullWord();
-            int i=0;
             for(int x=0; x<temp.getParts().size(); x++){
                  body2+= temp.getParts().get(x) + " - " + temp.getFrequencies().get(x) + "/" + temp.getTotals().get(x) + "\n";
             }
