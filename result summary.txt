@@ -1,94 +1,94 @@
 SMO 30_30:
-Correctly Classified Instances        3615               79.6958 %
-Incorrectly Classified Instances       921               20.3042 %
-Kappa statistic                          0.4957
-Mean absolute error                      0.203 
-Root mean squared error                  0.4506
-Relative absolute error                 45.6516 %
-Root relative squared error             95.5556 %
-Total Number of Instances             4536     
+Correctly Classified Instances        3761               79.8006 %
+Incorrectly Classified Instances       952               20.1994 %
+Kappa statistic                          0.4981
+Mean absolute error                      0.202 
+Root mean squared error                  0.4494
+Relative absolute error                 45.5626 %
+Root relative squared error             95.4624 %
+Total Number of Instances             4713     
 
 === Detailed Accuracy By Class ===
 
                TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
-                 0.943     0.494      0.792     0.943     0.861      0.724    P
-                 0.506     0.057      0.816     0.506     0.625      0.724    O
-Weighted Avg.    0.797     0.348      0.8       0.797     0.782      0.724
+                 0.94      0.488      0.795     0.94      0.861      0.726    P
+                 0.512     0.06       0.808     0.512     0.627      0.726    O
+Weighted Avg.    0.798     0.346      0.8       0.798     0.784      0.726
 
 === Confusion Matrix ===
 
     a    b   <-- classified as
- 2849  173 |    a = P
-  748  766 |    b = O
+ 2960  190 |    a = P
+  762  801 |    b = O
 
 MLP 30_30:
-Correctly Classified Instances        3488               76.8959 %
-Incorrectly Classified Instances      1048               23.1041 %
-Kappa statistic                          0.4485
-Mean absolute error                      0.2643
-Root mean squared error                  0.4203
-Relative absolute error                 59.4257 %
-Root relative squared error             89.1318 %
-Total Number of Instances             4536     
+Correctly Classified Instances        3637               77.1695 %
+Incorrectly Classified Instances      1076               22.8305 %
+Kappa statistic                          0.4583
+Mean absolute error                      0.2586
+Root mean squared error                  0.4167
+Relative absolute error                 58.3308 %
+Root relative squared error             88.5083 %
+Total Number of Instances             4713     
 
 === Detailed Accuracy By Class ===
 
                TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
-                 0.885     0.462      0.793     0.885     0.836      0.803    P
-                 0.538     0.115      0.701     0.538     0.608      0.803    O
-Weighted Avg.    0.769     0.346      0.762     0.769     0.76       0.803
+                 0.878     0.442      0.8       0.878     0.837      0.814    P
+                 0.558     0.122      0.694     0.558     0.618      0.814    O
+Weighted Avg.    0.772     0.336      0.765     0.772     0.765      0.814
 
 === Confusion Matrix ===
 
     a    b   <-- classified as
- 2674  348 |    a = P
-  700  814 |    b = O
+ 2765  385 |    a = P
+  691  872 |    b = O
 
 SMO 50_50:
-Correctly Classified Instances        3639               80.2249 %
-Incorrectly Classified Instances       897               19.7751 %
-Kappa statistic                          0.5134
-Mean absolute error                      0.1978
-Root mean squared error                  0.4447
-Relative absolute error                 44.462  %
-Root relative squared error             94.3023 %
-Total Number of Instances             4536     
+Correctly Classified Instances        3795               80.522  %
+Incorrectly Classified Instances       918               19.478  %
+Kappa statistic                          0.5204
+Mean absolute error                      0.1948
+Root mean squared error                  0.4413
+Relative absolute error                 43.9354 %
+Root relative squared error             93.7422 %
+Total Number of Instances             4713     
 
 === Detailed Accuracy By Class ===
 
                TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
-                 0.938     0.469      0.8       0.938     0.863      0.735    P
-                 0.531     0.062      0.811     0.531     0.642      0.735    O
-Weighted Avg.    0.802     0.333      0.804     0.802     0.789      0.735
+                 0.937     0.46       0.804     0.937     0.865      0.738    P
+                 0.54      0.063      0.809     0.54      0.648      0.738    O
+Weighted Avg.    0.805     0.328      0.806     0.805     0.793      0.738
 
 === Confusion Matrix ===
 
     a    b   <-- classified as
- 2835  187 |    a = P
-  710  804 |    b = O
+ 2951  199 |    a = P
+  719  844 |    b = O
 
 MLP 50_50:
-Correctly Classified Instances        3457               76.2125 %
-Incorrectly Classified Instances      1079               23.7875 %
-Kappa statistic                          0.4362
-Mean absolute error                      0.2498
-Root mean squared error                  0.4392
-Relative absolute error                 56.1677 %
-Root relative squared error             93.1329 %
-Total Number of Instances             4536     
+Correctly Classified Instances        3630               77.021  %
+Incorrectly Classified Instances      1083               22.979  %
+Kappa statistic                          0.4582
+Mean absolute error                      0.2508
+Root mean squared error                  0.436 
+Relative absolute error                 56.5669 %
+Root relative squared error             92.601  %
+Total Number of Instances             4713     
 
 === Detailed Accuracy By Class ===
 
                TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
-                 0.873     0.459      0.791     0.873     0.83       0.805    P
-                 0.541     0.127      0.681     0.541     0.603      0.805    O
-Weighted Avg.    0.762     0.348      0.755     0.762     0.754      0.805
+                 0.871     0.433      0.802     0.871     0.835      0.808    P
+                 0.567     0.129      0.685     0.567     0.621      0.808    O
+Weighted Avg.    0.77      0.332      0.764     0.77      0.764      0.808
 
 === Confusion Matrix ===
 
     a    b   <-- classified as
- 2638  384 |    a = P
-  695  819 |    b = O
+ 2743  407 |    a = P
+  676  887 |    b = O
 
 SMO 100_100:
 Correctly Classified Instances        3792               82.3095 %

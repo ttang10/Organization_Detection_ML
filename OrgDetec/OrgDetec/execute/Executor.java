@@ -24,11 +24,11 @@ import ngrams.word;
 
 public class Executor {
 	
-	final static int TOTAL_PROFILES_NUMBER = 6000;
-	final static int NORMALIZED_MIN__OCC_FAC = 100;
-	final static int NORMALIZED_MIN__DIF_FAC = 100;
+	final static int TOTAL_PROFILES_NUMBER = 6500;
+	final static int NORMALIZED_MIN__OCC_FAC = 50;
+	final static int NORMALIZED_MIN__DIF_FAC = 50;
 	
-	final static String FILENAME = "6016 labeled.txt";
+	final static String FILENAME = "celebrities_profiles.txt";
 	final static String REFINED_FILE = "refined.txt";
 	final static String OUTPUT1 = "personal.txt";
 	final static String OUTPUT2 = "organization.txt";

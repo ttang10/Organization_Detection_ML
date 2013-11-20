@@ -1,98 +1,103 @@
-#  - 223
-# the - 142
-# com - 97
-# we - 92
-the official - 86
-official twitter - 79
-is the - 64
+#  - 234
+# the - 148
+# com - 99
+# we - 95
+the official - 94
+official twitter - 88
+is the - 69
+of the - 63
 from the - 59
-of the - 59
-for the - 52
-is a - 46
-# official - 43
-the latest - 42
+for the - 53
+is a - 47
+# official - 45
+the latest - 43
 # follow - 42
-in the - 36
-on the - 35
-to the - 33
-news and - 33
+in the - 37
+on the - 36
+to the - 34
+news and - 34
+twitter page - 33
 social media - 32
-and more - 30
-# this - 28
-# a - 28
+# this - 31
+and more - 31
+# a - 29
+the world - 28
 news from - 28
-the world - 27
-twitter page - 26
+the best - 27
+this is - 26
 we are - 26
-the best - 24
-this is - 23
 on twitter - 23
-twitter account - 22
-follow us - 22
-updates from - 20
-all the - 18
+twitter account - 23
+follow us - 23
+updates from - 21
+all the - 19
+twitter feed - 19
 # we're - 18
 com is - 17
+# news - 17
 # for - 16
-twitter feed - 16
-# news - 16
+twitter for - 16
+twitter of - 16
 home of - 15
 the web - 15
 # com, - 15
 # music - 15
 # www - 15
 if you - 15
-twitter of - 15
 # and - 15
 source for - 14
-twitter for - 14
+and the - 14
 are the - 14
+# also - 13
 # co - 13
+# our - 13
 about the - 13
 to get - 13
 the most - 13
 around the - 13
-and the - 13
 get the - 13
 for more - 13
 # check - 12
+page for - 12
+# get - 12
 check out - 12
 with a - 12
 the world's - 12
 # you - 12
+# comthe - 12
 # s - 12
 # , - 12
 real estate - 12
 is an - 12
-page for - 11
-# also - 11
 account for - 11
 dedicated to - 11
-# our - 11
 us for - 11
 news about - 11
-# comthe - 11
+# twitter - 11
+one of - 11
 by the - 11
+you can - 11
 at www - 10
 at the - 10
-# get - 10
+# not - 10
 # come - 10
-# twitter - 10
 # join - 10
-you can - 10
 for all - 10
 site for - 9
-# not - 9
 and social - 9
 # see - 9
+com - - 9
 # tweets - 9
 com and - 9
-one of - 9
+how to - 9
+in your - 9
 tips and - 9
 help you - 9
 twitter profile - 9
 our website - 9
+page of - 9
 # i - 9
+# all - 9
 # your - 8
 us a - 8
 social media, - 8
@@ -100,17 +105,20 @@ feed of - 8
 # new - 8
 tweets from - 8
 latest news - 8
-com - - 8
+feed for - 8
+# be - 8
 up to - 8
+# welcome - 8
+welcome to - 8
 to be - 8
 and entertainment - 8
 updates on - 8
 we're a - 8
+is to - 8
 send us - 8
 # : - 8
 # 0 - 8
 # - - 8
-# all - 8
 and other - 8
 us and - 8
 and news - 7
@@ -119,6 +127,7 @@ internet marketing - 7
 to you - 7
 - the - 7
 in any - 7
+comthe official - 7
 # find - 7
 # watch - 7
 want to - 7
@@ -126,22 +135,18 @@ want to - 7
 # it's - 7
 # just - 7
 # free - 7
-feed for - 7
 the future - 7
-# be - 7
 # on - 7
 # is - 7
 use and - 7
-# welcome - 7
-welcome to - 7
+the only - 7
 are a - 7
-how to - 7
 even on - 7
 all things - 7
 to help - 7
+twitter pagethe - 7
 tweet, you - 7
 you consent - 7
-in your - 7
 by backstage - 7
 to letting - 7
 to make - 7
@@ -151,9 +156,7 @@ make a - 7
 consent to - 7
 web 2 - 7
 you send - 7
-is to - 7
 las vegas - 7
-page of - 7
 not affiliated - 7
 showcase it - 7
 a tweet, - 7
@@ -172,7 +175,7 @@ and information - 6
 us to - 6
 world's largest - 6
 go to - 6
-comthe official - 6
+for free - 6
 you get - 6
 over the - 6
 # please - 6
@@ -184,14 +187,14 @@ magazine and - 6
 breaking news - 6
 marketing and - 6
 need to - 6
+# tv - 6
 entertainment news - 6
-the only - 6
+and everything - 6
 stories from - 6
 from around - 6
 # stay - 6
 and video - 6
 news on - 6
-twitter pagethe - 6
 # living - 6
 the internet - 6
 all over - 6
@@ -199,11 +202,13 @@ in a - 6
 # tweet - 6
 the real - 6
 on television - 6
+pagethe official - 6
 account of - 6
 headlines from - 6
 # love - 6
 you with - 6
 # where - 6
+where you - 6
 out of - 6
 twitter home - 6
 search engine - 6
@@ -218,6 +223,7 @@ we do - 5
 more than - 5
 # cnn - 5
 and interactive - 5
+best in - 5
 you want - 5
 breaking news, - 5
 the twitter - 5
@@ -225,6 +231,8 @@ domain name - 5
 the #1 - 5
 and his - 5
 affiliated with - 5
+for you - 5
+the environment - 5
 from nytimes - 5
 and events - 5
 technology and - 5
@@ -244,12 +252,11 @@ deals and - 5
 # no - 5
 # it - 5
 # if - 5
-# tv - 5
-and everything - 5
 # one - 5
 # don't - 5
 all your - 5
 to date - 5
+also see - 5
 have a - 5
 the leading - 5
 # try - 5
@@ -257,19 +264,21 @@ a social - 5
 the first - 5
 the ultimate - 5
 the hottest - 5
-pagethe official - 5
 way to - 5
 of a - 5
+only official - 5
 to all - 5
-where you - 5
 we bring - 5
 and your - 5
 you to - 5
 guide to - 5
 the country - 5
+american idol - 5
 a great - 5
 they are - 5
+# marketing - 5
 # feel - 5
+sure to - 5
 find out - 5
 make the - 5
 notice: if - 5
@@ -285,27 +294,26 @@ and live - 4
 journal of - 4
 us on - 4
 the conversation - 4
+on all - 4
 social network - 4
 stay tuned - 4
-best in - 4
 world wide - 4
 # what - 4
 a new - 4
 # live - 4
 we hope - 4
 com for - 4
+the one - 4
 internet marketing, - 4
 a question - 4
-for free - 4
 com twitter - 4
-for you - 4
 and helping - 4
-the environment - 4
 we keep - 4
 a difference - 4
 and get - 4
 # how - 4
 a blog - 4
+the fastest - 4
 specializing in - 4
 to bring - 4
 # got - 4
@@ -342,16 +350,22 @@ wine and - 4
 at a - 4
 with the - 4
 gossip and - 4
+let us - 4
 & more - 4
+information about - 4
 we love - 4
 your online - 4
+official page - 4
 your daily - 4
 website and - 4
 and music - 4
+as we - 4
 join us - 4
+# comofficial - 4
 brought to - 4
 # org - 4
 as it - 4
+to have - 4
 to your - 4
 to do - 4
 fan site - 4
@@ -369,13 +383,16 @@ from all - 4
 entertainment news, - 4
 can make - 4
 blog and - 4
+a free - 4
 your business - 4
 the national - 4
 your questions - 4
 we want - 4
+technology news - 4
 into $1 - 4
 follow for - 4
 we can - 4
+social networking - 4
 white house - 4
 and culture - 4
 time to - 4
@@ -391,25 +408,25 @@ and share - 4
 # have - 4
 celebrity news - 4
 the original - 4
-only official - 4
 latest in - 4
 news, and - 4
 access to - 4
 - no - 4
+twitter oficial - 4
 etc etc - 4
 $1 million - 4
 run by - 4
-american idol - 4
 about new - 4
 latest news, - 4
 celebrity gossip - 4
 for real - 4
 we will - 4
+you will - 4
 links to - 4
 bring you - 4
-# marketing - 4
 you don't - 4
-sure to - 4
+daily news, - 4
+here to - 4
 # â˜ - 4
 # more - 4
 and we - 4
@@ -419,6 +436,8 @@ follow me - 4
 the same - 4
 the music - 4
 and business - 4
+web site - 4
+to share - 4
 new album - 4
 learn to - 3
 and have - 3
@@ -439,12 +458,12 @@ videos and - 3
 and for - 3
 what are - 3
 on abc - 3
-on all - 3
 # we've - 3
 how you - 3
 tweets by - 3
 # we'll - 3
 twitter pagewe - 3
+the biggest - 3
 # but - 3
 # breaking - 3
 west coast - 3
@@ -452,7 +471,6 @@ bringing you - 3
 small business - 3
 band from - 3
 to see - 3
-the one - 3
 just ask - 3
 destination for - 3
 to protect - 3
@@ -462,7 +480,6 @@ site and - 3
 going on - 3
 and online - 3
 health and - 3
-the fastest - 3
 culture and - 3
 # google - 3
 # america's - 3
@@ -482,11 +499,13 @@ events in - 3
 build your - 3
 # net - 3
 check us - 3
+related to - 3
 i tweet - 3
 deals on - 3
 do it - 3
 legal notice: - 3
 online business - 3
+by @esawdust - 3
 free online - 3
 fun and - 3
 to launch - 3
@@ -495,12 +514,15 @@ news &amp - 3
 try it - 3
 sign up - 3
 online resource - 3
+will find - 3
 of business - 3
 to our - 3
 all on - 3
 all of - 3
 # from - 3
+we also - 3
 twitter updates - 3
+so you - 3
 tools for - 3
 on twitter, - 3
 # updated - 3
@@ -514,27 +536,24 @@ our music - 3
 dm us - 3
 the radio - 3
 new moon - 3
+the united - 3
 right now - 3
 - your - 3
 power of - 3
 what you - 3
+# my - 3
 get a - 3
-let us - 3
 # in - 3
+# to - 3
 # so - 3
-information about - 3
 we're the - 3
-official page - 3
 with other - 3
-as we - 3
 will be - 3
 check our - 3
-# comofficial - 3
 about all - 3
 and resources - 3
 with an - 3
 your source - 3
-to have - 3
 a professional - 3
 media marketing - 3
 on your - 3
@@ -544,8 +563,10 @@ trying to - 3
 tweet starters - 3
 making wine - 3
 do you - 3
+real estate, - 3
 # top - 3
 how we - 3
+twitterthe official - 3
 on a - 3
 news stories - 3
 # that's - 3
@@ -558,23 +579,25 @@ petition at - 3
 web design - 3
 # vacation - 3
 into the - 3
-a free - 3
+fastest growing - 3
 and info - 3
 be a - 3
+# thanks - 3
 # internet - 3
 # zappos - 3
 of our - 3
 # who - 3
 radio stations - 3
+my official - 3
 features and - 3
-technology news - 3
 the premier - 3
+specialize in - 3
+free website - 3
 stories and - 3
 official site - 3
 every day - 3
 information for - 3
 twitter accounts - 3
-social networking - 3
 and free - 3
 # every - 3
 about twitter - 3
@@ -597,6 +620,7 @@ new deals - 3
 we've got - 3
 for news - 3
 website to - 3
+we feature - 3
 and yes, - 3
 times and - 3
 millions of - 3
@@ -610,18 +634,20 @@ your next - 3
 supported by - 3
 living in - 3
 online - - 3
-twitter oficial - 3
 place for - 3
 you are - 3
 uksupported by - 3
+news, sports, - 3
 owned by - 3
 all day - 3
 and education - 3
+from you - 3
 president of - 3
 the highest - 3
 the art - 3
 sports news - 3
 and special - 3
+# need - 3
 is on - 3
 is my - 3
 love and - 3
@@ -631,7 +657,6 @@ you by - 3
 our site - 3
 the u - 3
 of what - 3
-you will - 3
 be the - 3
 a time - 3
 right here - 3
@@ -642,36 +667,39 @@ fashion and - 3
 is how - 3
 # c - 3
 build a - 3
+# 1 - 3
 # 2 - 3
 # creating - 3
 about our - 3
-daily news, - 3
 # give - 3
 twitter - - 3
+for following - 3
 your mobile - 3
 the social - 3
-here to - 3
+scoop on - 3
 in just - 3
 news, interviews, - 3
 a real - 3
 green economy - 3
 listen to - 3
 and tv - 3
+don't have - 3
 coverage of - 3
 fan club - 3
+website with - 3
 20 years - 3
 join our - 3
 # learn - 3
 an internet - 3
 a leading - 3
 the blog - 3
-web site - 3
 site dedicated - 3
+be sure - 3
 we make - 3
 of social - 3
-to share - 3
 # fashion - 3
 rock band - 3
+us help - 3
 the google - 3
 art and - 3
 official feed - 3
@@ -689,6 +717,7 @@ what's happening - 2
 from san - 2
 there is - 2
 it all - 2
+@sensorstuff, @batterystuff, - 2
 but the - 2
 care about - 2
 # itâ€™s - 2
@@ -713,6 +742,7 @@ management consultant, - 2
 products are - 2
 news updates - 2
 and wealth - 2
+official mark - 2
 list for - 2
 conversation from - 2
 people on - 2
@@ -723,6 +753,7 @@ home based - 2
 from your - 2
 news you - 2
 21st century - 2
+well as - 2
 google apps - 2
 internet marketer - 2
 and explore - 2
@@ -739,6 +770,7 @@ people who - 2
 # com/wootoff - 2
 most of - 2
 the detroit - 2
+submit your - 2
 and president - 2
 group of - 2
 and link - 2
@@ -756,6 +788,7 @@ creator of - 2
 a lifestyle - 2
 kanye west - 2
 in all - 2
+gives free - 2
 and energy - 2
 of all - 2
 0 social - 2
@@ -763,10 +796,11 @@ shows and - 2
 helping others - 2
 twitter directory - 2
 starters for - 2
+x-play on - 2
 to show - 2
 # ceo - 2
 # life - 2
-the biggest - 2
+comofficial twitter - 2
 a regular - 2
 itâ€™s time - 2
 creative and - 2
@@ -774,6 +808,7 @@ tweets on - 2
 hope you - 2
 at least - 2
 the chicago - 2
+directory of - 2
 the recession - 2
 it happens - 2
 with new - 2
@@ -787,6 +822,7 @@ and geek - 2
 send a - 2
 music domain - 2
 the prime - 2
+and how - 2
 the planet - 2
 helping women - 2
 out our - 2
@@ -796,7 +832,9 @@ of every - 2
 questions about - 2
 and digital - 2
 brand new - 2
+for g4's - 2
 comthis is - 2
+look for - 2
 on cnn - 2
 red sox - 2
 from new - 2
@@ -806,6 +844,7 @@ and sports - 2
 from npr - 2
 making the - 2
 passionate about - 2
+harry potter - 2
 travel, and - 2
 connect with - 2
 of beer - 2
@@ -825,6 +864,7 @@ mac and - 2
 earth is - 2
 advice and - 2
 from our - 2
+# submit - 2
 kids to - 2
 with jon - 2
 politics news - 2
@@ -836,8 +876,10 @@ the prince - 2
 the 21st - 2
 in roughly - 2
 credit cards, - 2
+see @sensorstuff, - 2
 real people - 2
 it doesn't - 2
+so we're - 2
 for tv - 2
 to earn - 2
 you make - 2
@@ -858,6 +900,7 @@ you how - 2
 social music - 2
 city beach, - 2
 account run - 2
+dave ramsey - 2
 and friends - 2
 # weekly - 2
 life and - 2
@@ -866,11 +909,13 @@ web designers, - 2
 and lifestyle - 2
 in business - 2
 travel company - 2
+free and - 2
 on fox - 2
 eco preservation - 2
 having fun - 2
 # video - 2
 please also - 2
+up with - 2
 media site - 2
 # account - 2
 community with - 2
@@ -887,8 +932,8 @@ and let - 2
 we like - 2
 news - - 2
 based business - 2
+best quality - 2
 magazine in - 2
-related to - 2
 hit music - 2
 # since - 2
 washington post - 2
@@ -916,8 +961,8 @@ profits and - 2
 money online - 2
 sirius xm - 2
 gok wan - 2
-will find - 2
 to own - 2
+# made - 2
 ideas worth - 2
 have some - 2
 site to - 2
@@ -926,6 +971,7 @@ live music - 2
 # fresh - 2
 years of - 2
 music news - 2
+music, photo - 2
 separates us - 2
 the la - 2
 for your - 2
@@ -933,17 +979,18 @@ real twitter - 2
 of an - 2
 # together - 2
 doesn't matter - 2
+# let - 2
 computers, electronics - 2
 drinking water - 2
 art, culture - 2
-we also - 2
 # dating - 2
 at twooting - 2
 from his - 2
 official joe - 2
 america twitter - 2
+site you - 2
 making a - 2
-so you - 2
+feature the - 2
 come say - 2
 visit us - 2
 $2000 into - 2
@@ -960,6 +1007,7 @@ and mma - 2
 creators of - 2
 account with - 2
 heard on - 2
+variety of - 2
 the uk - 2
 a web - 2
 global news - 2
@@ -994,12 +1042,13 @@ grow your - 2
 # celebrity - 2
 ultimate guide - 2
 for celebrity - 2
+quotes from - 2
+our mission: - 2
 nick jonas - 2
 but one - 2
 don't just - 2
 community - - 2
 provider of - 2
-the united - 2
 for panama - 2
 # sign - 2
 magazine for - 2
@@ -1010,7 +1059,6 @@ phone &amp - 2
 # ca - 2
 and send - 2
 # an - 2
-# my - 2
 drink recipes, - 2
 a unique - 2
 red bull - 2
@@ -1018,7 +1066,6 @@ red bull - 2
 top news - 2
 have more - 2
 # http://www - 2
-# to - 2
 # uk - 2
 # red - 2
 # si - 2
@@ -1029,7 +1076,9 @@ a non-profit - 2
 - http://www - 2
 # tips - 2
 - out - 2
+our web - 2
 also follow - 2
+can follow - 2
 show, the - 2
 technology, real - 2
 small businesses - 2
@@ -1047,6 +1096,7 @@ date with - 2
 on facebook - 2
 and travel - 2
 com/wootoff twitter - 2
+for san - 2
 to new - 2
 social networking, - 2
 of them - 2
@@ -1060,6 +1110,7 @@ the magazine, - 2
 passion, and - 2
 in love - 2
 it out - 2
+with twitter - 2
 you news - 2
 and follow - 2
 # 's - 2
@@ -1080,7 +1131,6 @@ hear from - 2
 of new - 2
 i'm in - 2
 # radio - 2
-real estate, - 2
 for mtv - 2
 # until - 2
 on wine - 2
@@ -1088,7 +1138,7 @@ a site - 2
 ultimate buzz - 2
 where to - 2
 # tmz - 2
-also see - 2
+whoo kid - 2
 practical and - 2
 we get - 2
 audio and - 2
@@ -1099,13 +1149,16 @@ if it's - 2
 at your - 2
 have 2 - 2
 via the - 2
+official michael - 2
+# adam - 2
+accountthe official - 2
 share it - 2
 to hear - 2
-twitterthe official - 2
 to us - 2
 for today's - 2
 jon stewart - 2
 rest of - 2
+sports, music, - 2
 for yourself - 2
 official jason - 2
 believe in - 2
@@ -1144,10 +1197,10 @@ am a - 2
 a live - 2
 near you - 2
 and views - 2
-fastest growing - 2
 science of - 2
 online and - 2
 online travel - 2
+articles for - 2
 coverage and - 2
 as soon - 2
 # thank - 2
@@ -1156,7 +1209,6 @@ money on - 2
 to create - 2
 # bring - 2
 food, wine - 2
-# thanks - 2
 your doggies - 2
 about food - 2
 community of - 2
@@ -1170,11 +1222,12 @@ internet and - 2
 of human - 2
 seen on - 2
 with conan - 2
+twitter apps - 2
 tips & - 2
 up for - 2
 # alternative - 2
 flip flops - 2
-my official - 2
+and classic - 2
 soon as - 2
 the time - 2
 daily show - 2
@@ -1185,15 +1238,14 @@ or $2000 - 2
 martial arts - 2
 and twitter - 2
 offers on - 2
+# here - 2
 clips from - 2
 the fans - 2
-specialize in - 2
 # help - 2
 following list - 2
 pictures and - 2
 living and - 2
 webmaster of - 2
-free website - 2
 day from - 2
 # web - 2
 hunting, fishing, - 2
@@ -1201,17 +1253,20 @@ iphone and - 2
 special offers - 2
 at my - 2
 options exchange - 2
+as well - 2
 neil diamond - 2
 the right - 2
 worth spreading - 2
 your own - 2
 out and - 2
+you find - 2
 # national - 2
 located in - 2
 music group - 2
 me to - 2
 visit the - 2
 banking, mortgages, - 2
+thanks for - 2
 see our - 2
 # some - 2
 for business - 2
@@ -1221,6 +1276,7 @@ news, recipes - 2
 we can't - 2
 restaurant reviews - 2
 name extension - 2
+ready to - 2
 the creative - 2
 resources from - 2
 our feelings - 2
@@ -1233,6 +1289,7 @@ the rest - 2
 and several - 2
 about green - 2
 commentary and - 2
+are in - 2
 than a - 2
 # road - 2
 * * - 2
@@ -1241,9 +1298,11 @@ new trends - 2
 and breaking - 2
 and web - 2
 music, film - 2
+twitter accountthe - 2
 above to - 2
 worldâ€™s largest - 2
 updates by - 2
+show twitter - 2
 tv show - 2
 to train - 2
 happening with - 2
@@ -1274,18 +1333,19 @@ from over - 2
 the site - 2
 world's most - 2
 am the - 2
+to assist - 2
 true blood - 2
 - twitjobs - 2
 starters on - 2
 on my - 2
 magazine with - 2
-we feature - 2
 live your - 2
 public health - 2
 real time - 2
 on in - 2
 you love - 2
 us with - 2
+on g4 - 2
 the white - 2
 and market - 2
 the one-stop - 2
@@ -1328,11 +1388,14 @@ recording artist - 2
 travel + - 2
 post twitter - 2
 as seen - 2
+oficial do - 2
 an ever-growing - 2
 world news - 2
 # movie - 2
+- we - 2
 our mission - 2
 mobile phone - 2
+oficial de - 2
 latest celebrity - 2
 hollywood as - 2
 signing petition - 2
@@ -1344,17 +1407,18 @@ you do - 2
 here: http://tinyurl - 2
 twitter channel - 2
 say hi, - 2
-news, sports, - 2
 you on - 2
+out on - 2
 estate, banking, - 2
-from you - 2
 and internet - 2
 twitter addict, - 2
 have to - 2
 give it - 2
 entertainment and - 2
 and learn - 2
+a variety - 2
 available at - 2
+voice on - 2
 voice of - 2
 mobile device - 2
 is not - 2
@@ -1369,7 +1433,6 @@ video clips - 2
 trip planning - 2
 official jamie - 2
 goal is - 2
-# need - 2
 our new - 2
 the game - 2
 fun, make - 2
@@ -1402,6 +1465,7 @@ to give - 2
 of web - 2
 lets you - 2
 measure your - 2
+twitter is - 2
 tweets about - 2
 own a - 2
 media marketing, - 2
@@ -1426,26 +1490,25 @@ styles and - 2
 a dm - 2
 services in - 2
 being a - 2
+idol season - 2
 and lots - 2
 # 9 - 2
-# 1 - 2
 should be - 2
 myrtle beach - 2
 and political - 2
 tweeps near - 2
 coming soon - 2
 yes, i - 2
-for following - 2
 to learn - 2
 fans of - 2
 politics and - 2
 # add - 2
+we don't - 2
 to 10,000 - 2
 come join - 2
 9 years - 2
 renewable energy - 2
 consultant, technology, - 2
-scoop on - 2
 web on - 2
 about your - 2
 and i - 2
@@ -1483,7 +1546,6 @@ across the - 2
 tracking the - 2
 love of - 2
 the financial - 2
-don't have - 2
 as they - 2
 # fitness - 2
 leading online - 2
@@ -1492,7 +1554,6 @@ and is - 2
 coverage on - 2
 a day - 2
 solutions for - 2
-website with - 2
 we offer - 2
 # keeping - 2
 start the - 2
@@ -1507,9 +1568,10 @@ your favorite - 2
 girl at - 2
 buzz tracker - 2
 # network - 2
-be sure - 2
 news -- - 2
+inside scoop - 2
 # news, - 2
+find a - 2
 we produce - 2
 here for - 2
 prince of - 2
@@ -1521,12 +1583,12 @@ award winning - 2
 the world, - 2
 open and - 2
 the voice - 2
-us help - 2
 the worlds - 2
 account is - 2
 for more: - 2
 latest headlines - 2
 find us - 2
+season 8 - 2
 will follow - 2
 tuned for - 2
 and trend - 1
@@ -1571,6 +1633,7 @@ by viewing - 1
 the economist - 1
 live in - 1
 networking software - 1
+restoration parts - 1
 live is - 1
 woot shirt - 1
 friends,new tech - 1
@@ -1587,6 +1650,7 @@ free tool - 1
 nonprofits, science, - 1
 followers and - 1
 prizes some - 1
+or ezine - 1
 domains, web - 1
 well, get - 1
 # globeizer - 1
@@ -1596,6 +1660,7 @@ mortgages, newsour - 1
 to safe, - 1
 with beautiful - 1
 the expat - 1
+g4's web - 1
 & unlimited - 1
 that introduces - 1
 twitter pagepowerful - 1
@@ -1610,6 +1675,7 @@ broadcast, website, - 1
 newsguard | - 1
 easy, delicious - 1
 twitter/ 2009 - 1
+sales &amp - 1
 # officially - 1
 detroit red - 1
 hill twitter - 1
@@ -1652,6 +1718,7 @@ nightline: legal - 1
 for youtube - 1
 your guide - 1
 contributed quotes - 1
+just for - 1
 gb since - 1
 jackson rathboneventuring - 1
 meeting friends,new - 1
@@ -1720,6 +1787,7 @@ and mainstream - 1
 media, we - 1
 original fashion - 1
 afghanistan news - 1
+paid for - 1
 # print, - 1
 social lifeâ„ - 1
 focusing on - 1
@@ -1747,6 +1815,7 @@ single professionalsno - 1
 strategy, management - 1
 dishes exclusive - 1
 # suspect - 1
+one and - 1
 an audiobook - 1
 global campaigning - 1
 shelley b - 1
@@ -1778,6 +1847,7 @@ online worldwide - 1
 sustainably focused - 1
 golf, tennis - 1
 all tweets - 1
+profile, 4 - 1
 just 90 - 1
 and daily - 1
 of current - 1
@@ -1795,6 +1865,7 @@ wellness,love puerto - 1
 and blog-based - 1
 having sold - 1
 first show, - 1
+twitter, the - 1
 is quite - 1
 live streams, - 1
 sportsman, hunting, - 1
@@ -1807,9 +1878,11 @@ and county - 1
 all ted - 1
 # hip-hop - 1
 nature conservancy - 1
+photo ishowsskyje - 1
 don't suck - 1
 com/redeem and - 1
 allido records/interscope - 1
+real money - 1
 espn daily - 1
 chris himself - 1
 and managing - 1
@@ -1847,6 +1920,7 @@ official neil - 1
 official unofficial - 1
 today show - 1
 # kabc - 1
+@gpsstuff, @securitystuffgps - 1
 day job - 1
 average gal - 1
 corner of - 1
@@ -1859,6 +1933,7 @@ portions of - 1
 stationcorporate learning - 1
 for 1000's - 1
 2,000 or - 1
+career development - 1
 offbeat news - 1
 crazy world - 1
 negotiations to - 1
@@ -1895,6 +1970,7 @@ fact every - 1
 joe valenta - 1
 plays of - 1
 hop music - 1
+novidades e - 1
 increase their - 1
 & social - 1
 summer 2009: - 1
@@ -1926,6 +2002,7 @@ people do - 1
 com/stylethe hill - 1
 federal governmentwe - 1
 shake - - 1
+of american - 1
 real britney - 1
 of spectacular - 1
 to stomp - 1
@@ -1953,6 +2030,7 @@ follow @crackberrykevin - 1
 black and - 1
 by tweeps - 1
 # sports - 1
+# massive - 1
 was the - 1
 market your - 1
 or our - 1
@@ -1961,6 +2039,7 @@ independent online - 1
 networking experience, - 1
 your quote - 1
 are paid - 1
+tiÃ«sto twitter - 1
 to youdiscounts - 1
 - katherine, - 1
 and treatment - 1
@@ -2088,7 +2167,6 @@ photography newsletter - 1
 mine are - 1
 furture home - 1
 the easelhelping - 1
-official mark - 1
 and cnn - 1
 advertising news, - 1
 australia's #1 - 1
@@ -2129,6 +2207,8 @@ earn $200+ - 1
 related parties - 1
 on americas - 1
 wellness, hope, - 1
+choice awards - 1
+these articles - 1
 on american - 1
 # $1000 - 1
 music you'll - 1
@@ -2158,6 +2238,7 @@ your soup - 1
 fashion, travel, - 1
 # eats - 1
 # uknews - 1
+@batterystuff, @gpsstuff, - 1
 fun too - 1
 toronto, vancouver, - 1
 for wine, - 1
@@ -2287,7 +2368,6 @@ minister's office - 1
 news, instruction, - 1
 businesstwitter's interface - 1
 capitol hill - 1
-well as - 1
 rise against - 1
 # donâ€™t - 1
 over 150 - 1
@@ -2338,12 +2418,14 @@ photos, videos, - 1
 sunday, it's - 1
 def jam - 1
 watch with - 1
+classifieds, autos, - 1
 bottom of - 1
 official yahoo - 1
 source to - 1
 chart & - 1
 day' available - 1
 complete breaking - 1
+autos, real - 1
 channel's no - 1
 : if - 1
 of crossover - 1
@@ -2471,6 +2553,7 @@ ireland's first - 1
 # org/listenofficial - 1
 readings available~click - 1
 hottest twitter - 1
+our survey - 1
 us as - 1
 us at - 1
 resource page - 1
@@ -2514,6 +2597,7 @@ strategist, podcaster, - 1
 commedia empresstweets - 1
 - fashion - 1
 also we - 1
+visit every - 1
 out http://www - 1
 also post - 1
 maximize the - 1
@@ -2528,17 +2612,18 @@ and whats - 1
 giveaways, cd - 1
 is negotiating - 1
 official serena - 1
+for inspirational - 1
 on duty: - 1
 # machinima - 1
 upcoming new - 1
 microspacexs nation - 1
-submit your - 1
 conversations with - 1
 system for - 1
 adsense team - 1
 golfwelcome to - 1
 caring, compassionate, - 1
 # def - 1
+team twitter - 1
 hearing from - 1
 a mix - 1
 2nd income - 1
@@ -2566,10 +2651,12 @@ see @valebritylite - 1
 buyers guide - 1
 and project - 1
 training, trainingssteuerung, - 1
+pÃ¡gina oficial - 1
 blog at - 1
 limits is - 1
 card of - 1
 againruler of - 1
+and others - 1
 kabc has - 1
 the hub - 1
 beach house - 1
@@ -2645,6 +2732,7 @@ headquarters designed - 1
 our other - 1
 christian father - 1
 cnn's american - 1
+include these - 1
 gear, hot - 1
 we're an - 1
 be next - 1
@@ -2688,6 +2776,7 @@ candid tales - 1
 article postings, - 1
 fantasy author, - 1
 official john - 1
+inform and - 1
 networking site - 1
 identify and - 1
 blogs &amp - 1
@@ -2799,6 +2888,7 @@ lessons on - 1
 always get - 1
 great stories, - 1
 issuesthis is - 1
+guidance, as - 1
 the 17-time - 1
 follow readwriteweb - 1
 red wine, - 1
@@ -2809,6 +2899,7 @@ comics, movies, - 1
 company located - 1
 com blogs - 1
 weblog, http://tuaw - 1
+kirk franklinfreegolftip - 1
 diego, ca - 1
 and informative - 1
 pizza, tuscani - 1
@@ -2822,9 +2913,11 @@ coach, rainmaker, - 1
 drafted 7th - 1
 # hubby, - 1
 business online - 1
+tc news - 1
 sketches, topical - 1
 electrik red - 1
 the newest, - 1
+from quakers - 1
 #tophr news, - 1
 lew's news - 1
 matter how - 1
@@ -2880,7 +2973,6 @@ top newsbusiness - 1
 hip-hop artists - 1
 expensive gadgets - 1
 decaydance records - 1
-gives free - 1
 tweet week, - 1
 business management - 1
 meaning my - 1
@@ -2954,12 +3046,14 @@ twitter accountsupport - 1
 user, tester, - 1
 treatment methods - 1
 when we - 1
+showthe official - 1
 carries a - 1
 great shoestweets, - 1
 a club - 1
 get offended - 1
 hope found - 1
 # fri8pmest - 1
+you may - 1
 on drm-free, - 1
 4th season - 1
 to hearing - 1
@@ -2999,7 +3093,6 @@ let loose - 1
 baby name - 1
 podcaster, video - 1
 hears about - 1
-x-play on - 1
 firm specializing - 1
 comfollow maxwell's - 1
 cancer research - 1
@@ -3045,6 +3138,7 @@ through shared - 1
 help needy - 1
 #tcot #aipapple - 1
 better wired - 1
+tv updates - 1
 blog website - 1
 featuring gatlinburg - 1
 twitter back - 1
@@ -3054,7 +3148,6 @@ best mac - 1
 # embrace - 1
 lat twitter - 1
 # scientific - 1
-comofficial twitter - 1
 dvd, the - 1
 live stram - 1
 readers a - 1
@@ -3067,6 +3160,7 @@ rate and - 1
 # neurological - 1
 making your - 1
 laser accurate - 1
+da power - 1
 info, support - 1
 websites and - 1
 bass guitarist, - 1
@@ -3136,7 +3230,6 @@ evangelical magazine - 1
 scoop here - 1
 special sales - 1
 jam recordings - 1
-directory of - 1
 # hotels - 1
 co-own a - 1
 voice team - 1
@@ -3254,6 +3347,8 @@ pragmatic and - 1
 news network, - 1
 congressional newspaper - 1
 page / - 1
+page - - 1
+2009, i've - 1
 language, and - 1
 physiquethe official - 1
 dornob is - 1
@@ -3285,12 +3380,14 @@ diggin' on - 1
 awesome stuff - 1
 heck, all - 1
 network marketers - 1
+is here - 1
 company twitter - 1
 latest reviews - 1
 cms, emarketing, - 1
 magazine, celebrity - 1
 simple plan - 1
 your beer - 1
+find guidance, - 1
 38th governor - 1
 adam do - 1
 the elite - 1
@@ -3311,6 +3408,7 @@ what everyone's - 1
 1,000 to - 1
 real-time obnoxiousness, - 1
 downthe official - 1
+# unusual - 1
 entrepreneurs how - 1
 nw division - 1
 humorists, philosophy, - 1
@@ -3320,6 +3418,7 @@ is having - 1
 feeds at - 1
 nicki minaj - 1
 to ending - 1
+half blood - 1
 death by - 1
 from neil - 1
 celebrities, gear, - 1
@@ -3330,7 +3429,6 @@ can earn - 1
 @scott montythe - 1
 on food - 1
 # evancarmichael - 1
-and how - 1
 cast, and - 1
 website since - 1
 sustainabilitypumped up - 1
@@ -3341,8 +3439,10 @@ from various - 1
 blended families - 1
 # activities - 1
 film news, - 1
+golf tips, - 1
 bring it - 1
 mobile web - 1
+auctions, classifieds, - 1
 kcrw and - 1
 packages in - 1
 # drink - 1
@@ -3363,6 +3463,7 @@ and sacred - 1
 com's melissa - 1
 also 86% - 1
 personhelping people - 1
+your articles - 1
 #rockonfollow us - 1
 was established - 1
 name scott - 1
@@ -3370,6 +3471,7 @@ recovery beverages - 1
 come learn - 1
 most people - 1
 personal site - 1
+watson twitter - 1
 with original - 1
 paolo and - 1
 deal witha - 1
@@ -3414,6 +3516,7 @@ at 3pm - 1
 industry, or - 1
 # lookcook - 1
 your asshairâ€™s - 1
+golf swing, - 1
 buy your - 1
 womens fitness - 1
 rock, country, - 1
@@ -3426,6 +3529,7 @@ festivalsstuff you - 1
 label, the - 1
 # anchor - 1
 lady and - 1
+adam is - 1
 events â˜ - 1
 nothing mentioned - 1
 tweeted by - 1
@@ -3502,7 +3606,6 @@ politics of - 1
 # isaac - 1
 # â€œâ - 1
 tld for - 1
-for g4's - 1
 now, connecting - 1
 smart office - 1
 fun ways - 1
@@ -3513,7 +3616,7 @@ photography, bicycling, - 1
 are made - 1
 for realtor - 1
 for urban - 1
-look for - 1
+offical adam - 1
 # etravelinsider - 1
 and kissescommunity, - 1
 from googleif - 1
@@ -3540,6 +3643,7 @@ bet's music - 1
 to alternative - 1
 dog whispererthe - 1
 blogger product - 1
+on july - 1
 moar conversation - 1
 saga collection - 1
 hackers on - 1
@@ -3565,6 +3669,7 @@ new self-titled - 1
 cancer foundation - 1
 respond to - 1
 is public - 1
+marketingimag for - 1
 essential guide - 1
 makes select - 1
 and businessesthe - 1
@@ -3706,6 +3811,7 @@ turn the - 1
 on coaching, - 1
 online now - 1
 and current - 1
+# services - 1
 free suggestions - 1
 secrets to - 1
 #organic #sustainable - 1
@@ -3753,7 +3859,9 @@ bs straight - 1
 strategy search - 1
 cody robert - 1
 # http://mvond - 1
+official mcfly - 1
 ideological blindness - 1
+sobre redes - 1
 the singles, - 1
 30k+ users, - 1
 featuring african-american - 1
@@ -3833,6 +3941,7 @@ chicago bulls: - 1
 through what - 1
 com send - 1
 for alan - 1
+la pÃ¡gina - 1
 product manager - 1
 those whose - 1
 type of - 1
@@ -3918,6 +4027,7 @@ guests, sketches, - 1
 the groundsocial - 1
 writerseco preservation - 1
 kids on - 1
+wedding planners - 1
 and we'll - 1
 planning news - 1
 vlogs at - 1
@@ -3936,6 +4046,7 @@ vp of - 1
 as mcnugget - 1
 the globeone - 1
 books so - 1
+potter half - 1
 place on - 1
 # take - 1
 not one - 1
@@ -3947,6 +4058,7 @@ the game, - 1
 jessica simpson - 1
 follow clips - 1
 's seriously - 1
+himself, as - 1
 about advertising, - 1
 of locals - 1
 have other - 1
@@ -3955,6 +4067,7 @@ entertainment industrybrandon - 1
 what you're - 1
 of cancer - 1
 associationtwilight earth - 1
+and raise - 1
 top business - 1
 ly/e3k my - 1
 creative teenage - 1
@@ -3964,10 +4077,12 @@ autografada da - 1
 to watch - 1
 of websites - 1
 dev team - 1
+web soup - 1
 community teams - 1
 broadband internet - 1
 com money - 1
 offices - - 1
+mission in - 1
 original content - 1
 you stay - 1
 @batterystuff, @securitystuff, - 1
@@ -3986,7 +4101,6 @@ belcher - - 1
 playful and - 1
 and exercise - 1
 automated, profitable - 1
-# submit - 1
 pigeon forge - 1
 and we're - 1
 on golf - 1
@@ -4014,6 +4128,7 @@ than 20 - 1
 = success - 1
 photos, maps, - 1
 mic: nicki - 1
+your website - 1
 left of - 1
 guide web - 1
 official dakota - 1
@@ -4052,6 +4167,7 @@ att news - 1
 stop selling - 1
 # hip - 1
 from extra - 1
+# articles - 1
 and lead - 1
 tipped and - 1
 biggest particle - 1
@@ -4077,6 +4193,7 @@ watch x-play - 1
 - find - 1
 and meet - 1
 almost always - 1
+book dj - 1
 sharing their - 1
 nicki dugan - 1
 herelegal notice: - 1
@@ -4125,6 +4242,7 @@ the iphone/ipod - 1
 money tips, - 1
 refurbished dellâ„ - 1
 created our - 1
+products &amp - 1
 and hottest - 1
 calli, calli - 1
 com/mset36the official - 1
@@ -4149,6 +4267,7 @@ in contemporary - 1
 new media, - 1
 etcthe oddly - 1
 of iphone - 1
+news articles - 1
 upside downthe - 1
 now be - 1
 you'll get - 1
@@ -4165,6 +4284,7 @@ your gaming - 1
 for lifetime - 1
 demand - - 1
 every scene, - 1
+programme, the - 1
 largest selection - 1
 magazine i - 1
 now at - 1
@@ -4187,6 +4307,7 @@ guided people - 1
 # shiftcomm - 1
 or how - 1
 by creating - 1
+# bienvenidos - 1
 clothing, think - 1
 all vegas - 1
 inside as - 1
@@ -4213,6 +4334,7 @@ for single - 1
 er physician - 1
 # honest - 1
 into trouble - 1
+of x-play - 1
 ecommerce and - 1
 , pb - 1
 # bonniehunt - 1
@@ -4236,6 +4358,7 @@ changing the - 1
 uk/music teamofficial - 1
 dynamic search - 1
 of emotional - 1
+get paid - 1
 # radian6 - 1
 # dipdive - 1
 mouth firm - 1
@@ -4260,6 +4383,7 @@ businesses, services, - 1
 to use - 1
 skateboarding site - 1
 know folks - 1
+potter and - 1
 investing subject - 1
 de el - 1
 downright sad - 1
@@ -4272,7 +4396,6 @@ hubby, dad, - 1
 of viewyour - 1
 of atlantis - 1
 # re-tweet - 1
-so we're - 1
 people $$ - 1
 graphic novel - 1
 to presenting - 1
@@ -4357,6 +4480,7 @@ award at - 1
 football leaguetruebloodnet - 1
 dope moves - 1
 independent travel - 1
+industries in - 1
 show, around - 1
 global director - 1
 compost your - 1
@@ -4488,6 +4612,7 @@ many updates - 1
 business research - 1
 # willyouatme - 1
 the south - 1
+and more: - 1
 agencyinformational network - 1
 consultant & - 1
 Âµ-blogger, your - 1
@@ -4505,6 +4630,7 @@ one million - 1
 your thoughts - 1
 debate, wrestle - 1
 in artist - 1
+nations environment - 1
 and backgrounds - 1
 we'll win - 1
 500,000 readers - 1
@@ -4514,6 +4640,7 @@ re-tweet if - 1
 ticket at - 1
 each other - 1
 # autofiends - 1
+classic car - 1
 music today, - 1
 to celebrities, - 1
 nerdglobal marketing - 1
@@ -4530,6 +4657,7 @@ com/tawe are - 1
 the connect: - 1
 featuring artists - 1
 wellness is - 1
+iraheta twitter - 1
 houston rockets - 1
 theodore media - 1
 secrets, stories - 1
@@ -4605,10 +4733,10 @@ since 1996, - 1
 vacation photos - 1
 # virtual - 1
 known to - 1
-dave ramsey - 1
 the recording - 1
 music, podcasting, - 1
 give you - 1
+prince film - 1
 can help - 1
 of spirit - 1
 # gov - 1
@@ -4787,7 +4915,6 @@ the blogger - 1
 like shirts - 1
 bbc's flagship - 1
 sayings from - 1
-up with - 1
 office based - 1
 kamrada twitter - 1
 history, living - 1
@@ -4799,6 +4926,7 @@ quite simply, - 1
 one small - 1
 rentals, beach - 1
 differencegadgets and - 1
+car restoration - 1
 lambertactor,husband,father,brother,friendworks with - 1
 acclaimed producer - 1
 music release - 1
@@ -4819,10 +4947,12 @@ compendium of - 1
 our lives - 1
 geek communicate - 1
 money onlineu - 1
+with chris - 1
 # blogs - 1
 embedded, ngw100, - 1
 not sure - 1
 grind is - 1
+parts from - 1
 site owners - 1
 do outreach - 1
 voice to - 1
@@ -4842,6 +4972,7 @@ buying and - 1
 and kcrw - 1
 in toronto - 1
 loan-builder, real - 1
+@radioplanet for - 1
 their sales, - 1
 # billy - 1
 festival, presented - 1
@@ -4858,6 +4989,7 @@ ghz powerpc - 1
 official criss - 1
 -- proprietor, - 1
 musso official - 1
+musclecar and - 1
 site showcasing - 1
 threatfire into - 1
 punch layers - 1
@@ -4886,6 +5018,7 @@ in sfnbc - 1
 destinations â˜ - 1
 what we're - 1
 quality programming, - 1
+torrents onlinethe - 1
 marketing, social - 1
 and analysis - 1
 levox and - 1
@@ -4896,6 +5029,7 @@ heels three - 1
 ourselves with - 1
 items, from - 1
 | communications, - 1
+wanted, auctions, - 1
 helping flaks - 1
 tweet i - 1
 mode is - 1
@@ -4910,6 +5044,8 @@ platform - - 1
 email + - 1
 natural food - 1
 sources you - 1
+need wedding - 1
+fitness, nutrition, - 1
 seas on - 1
 # chicken - 1
 less, do - 1
@@ -4965,6 +5101,7 @@ to follow - 1
 the company - 1
 another twitter - 1
 1964-present ford - 1
+massive opportunity - 1
 correspondent for - 1
 #1 destination - 1
 sports, entertainment, - 1
@@ -4990,6 +5127,7 @@ all playstation - 1
 comlaunch nov - 1
 sun and - 1
 rock magazine - 1
+and alerts - 1
 com, special - 1
 slabey is - 1
 accountwe list - 1
@@ -5008,9 +5146,11 @@ no brand - 1
 that shares - 1
 control our - 1
 sharing great - 1
+from tiÃ«sto - 1
 non-stop from - 1
 daryl's site: - 1
 usa feed - 1
+hit a - 1
 organization bringing - 1
 be twittering - 1
 fashion, film, - 1
@@ -5026,6 +5166,7 @@ media strategy, - 1
 we developed - 1
 major u - 1
 baby names - 1
+and guidance - 1
 in real - 1
 of small - 1
 am eastern/10 - 1
@@ -5065,7 +5206,6 @@ fm or - 1
 the 'whataÂ´ - 1
 deals at - 1
 # mindler - 1
-best quality - 1
 intelligence and - 1
 friend adds - 1
 # girlfriend - 1
@@ -5074,6 +5214,7 @@ affiliate program: - 1
 short content - 1
 # â€¢â - 1
 twooting is - 1
+dakota's twitterwelcome - 1
 adam kempenaar - 1
 organic food, - 1
 wine, walking, - 1
@@ -5084,6 +5225,7 @@ panettiereour experts - 1
 # oh, - 1
 whats coming - 1
 giveaway lots - 1
+mark levin - 1
 and happen - 1
 dating events - 1
 the press - 1
@@ -5155,6 +5297,7 @@ fixed 30 - 1
 twitter, with - 1
 to donate - 1
 your blog, - 1
+biggest stores - 1
 more about - 1
 sales, revenues, - 1
 savings, happening - 1
@@ -5183,6 +5326,7 @@ relationship social - 1
 # com/nfldb9 - 1
 new cameras, - 1
 participationwe cannot - 1
+not only - 1
 training, focusing - 1
 - its - 1
 projects, microcontrollers, - 1
@@ -5276,6 +5420,7 @@ for trader - 1
 disaster and - 1
 tv series,sneak - 1
 for freelancers - 1
+# comon - 1
 are running - 1
 top-of-hour news, - 1
 we're talking - 1
@@ -5335,6 +5480,7 @@ marketing, email - 1
 network, providing - 1
 stores may - 1
 shooter from - 1
+on how - 1
 boring personal - 1
 your secrets - 1
 initiative tracks - 1
@@ -5369,9 +5515,9 @@ symbol and - 1
 we train - 1
 retweet it - 1
 blog-would love - 1
+in free - 1
 24/7- wgpa - 1
 museum complex - 1
-by @esawdust - 1
 twitter celebrities - 1
 energy trust - 1
 miracle of - 1
@@ -5380,6 +5526,7 @@ and engage - 1
 2 daughters - 1
 supervising producer - 1
 film & - 1
+exec is - 1
 offer natural, - 1
 mixed martial - 1
 admirers of - 1
@@ -5409,6 +5556,7 @@ nature, and - 1
 official lfc - 1
 pages added - 1
 & advice - 1
+# casino - 1
 domain names - 1
 travel, iphone, - 1
 entertainment programming - 1
@@ -5454,12 +5602,14 @@ featuring both - 1
 of listed - 1
 jen just - 1
 taking on - 1
+in wedding - 1
 report, including - 1
 zagat09architecture // - 1
 current and - 1
 news, breaking - 1
 the day's - 1
 hardbody: the - 1
+inspire, inform - 1
 # virus - 1
 makers forumthe - 1
 in live - 1
@@ -5475,6 +5625,7 @@ marketing evangelist - 1
 uptime monitor, - 1
 highlights you - 1
 the month - 1
+newstwitter da - 1
 18, 2009signs - 1
 shoes, no - 1
 social messaging - 1
@@ -5494,6 +5645,7 @@ related tweetsamericaâ€™s - 1
 covering luxury - 1
 their children - 1
 tune in - 1
+through present - 1
 and pictures - 1
 april 6 - 1
 adam h - 1
@@ -5525,6 +5677,7 @@ feast on - 1
 state, former - 1
 tweet along - 1
 gd/8d1ba site - 1
+sessler twitter - 1
 # thisis50 - 1
 foundermakemebad35, coming - 1
 hal sparks - 1
@@ -5556,6 +5709,7 @@ independent party - 1
 who specialize - 1
 on earth - 1
 i'm still - 1
+survey says - 1
 ever-growing needs - 1
 the dickhead - 1
 trout, grayling, - 1
@@ -5616,6 +5770,7 @@ official beyoncÃ© - 1
 and lush, - 1
 tv, animation, - 1
 first lines - 1
+awards 2009, - 1
 channel in - 1
 honest and - 1
 if it - 1
@@ -5623,9 +5778,9 @@ preparedness and - 1
 voss official - 1
 with 'a - 1
 do all - 1
-# made - 1
 self-development and - 1
 and developing - 1
+saturdays official - 1
 mods nationwide - 1
 of stephon - 1
 backup, storage - 1
@@ -5686,6 +5841,7 @@ free mp3 - 1
 clean and - 1
 living room - 1
 from her - 1
+kat von - 1
 10000 followers - 1
 where would - 1
 you shouldn't - 1
@@ -5713,6 +5869,7 @@ com/bezmoneyfree taxi - 1
 4 yourself - 1
 orgdaniel negreanu's - 1
 bloggers and - 1
+alerts related - 1
 day online - 1
 tips, equipment - 1
 com/woot twitter - 1
@@ -5723,9 +5880,10 @@ chat and - 1
 and wingstreet - 1
 # com/wootselloutforrester - 1
 icerocket's bigbuzz - 1
+official kat - 1
 of platinum - 1
 twitter groups - 1
-music, photo - 1
+all hooked - 1
 ngw100, avr, - 1
 medical correspondent - 1
 about herrecent - 1
@@ -5752,6 +5910,7 @@ twitternutrition research, - 1
 nonprofit sectdazed - 1
 tweets the - 1
 some awesome - 1
+find updates - 1
 social web - 1
 news automatically - 1
 himself, iâ€™ll - 1
@@ -5761,6 +5920,7 @@ best blackberry - 1
 combreaking news - 1
 a uma - 1
 whose time - 1
+the dave - 1
 american ex-pat - 1
 com to - 1
 sports wagering - 1
@@ -5782,6 +5942,7 @@ and goings - 1
 education resources - 1
 film, music, - 1
 person can - 1
+youwe are - 1
 online marketing - 1
 stationsarmistice available - 1
 of george - 1
@@ -5811,13 +5972,13 @@ a web-interview - 1
 of gadgets - 1
 slate is - 1
 still setting - 1
+the is - 1
 formula: training - 1
 can you - 1
 steampunk etcthe - 1
 brave soldiers - 1
 and commercials - 1
 are girls - 1
-# let - 1
 the mind - 1
 get involved, - 1
 # political - 1
@@ -5951,6 +6112,7 @@ television seriesjoin - 1
 promoting dance - 1
 please follow - 1
 weirdest and - 1
+improve golf - 1
 tweeting$1000 into - 1
 a world - 1
 to friday - 1
@@ -5961,6 +6123,7 @@ history to - 1
 students and - 1
 prints or - 1
 will launch - 1
+development resourcethe - 1
 for 37signals - 1
 news, band - 1
 # capricho - 1
@@ -5972,13 +6135,13 @@ of opportunity - 1
 rachel hobsonlive - 1
 bryani own - 1
 poetry, and - 1
-site you - 1
 filmed in - 1
 marketing labs, - 1
 letters + - 1
 on rob's - 1
 - helping - 1
 anything and - 1
+wedding ideas, - 1
 point of - 1
 radio personality - 1
 nordic walking - 1
@@ -6013,17 +6176,20 @@ because truth - 1
 advertising for - 1
 blog dedicated - 1
 and nyc - 1
+teen choice - 1
 for nature - 1
+mission: to - 1
 0, social - 1
 official dierks - 1
 review the - 1
 listening to - 1
 specials at - 1
 on interaction - 1
-feature the - 1
+his management - 1
 for fashionwe - 1
 johnny depp - 1
 flaks pitch - 1
+dating, social - 1
 stock and - 1
 especially the - 1
 sometimes downright - 1
@@ -6103,6 +6269,7 @@ fears ideological - 1
 it http://tinyurl - 1
 pop musicofficial - 1
 # sticks - 1
+inspirational quotes - 1
 band anberlinofficial - 1
 pubs bars - 1
 degrawlook here - 1
@@ -6124,12 +6291,16 @@ online at - 1
 get ready - 1
 kids between - 1
 activities â˜ - 1
+tv torrents - 1
 fan media - 1
 100mbps flat - 1
 ideas, social - 1
 gene simmons - 1
 others make - 1
+prince comes - 1
 lucrative home-business - 1
+official tiÃ«sto - 1
+everything that - 1
 network marketing - 1
 largest and - 1
 a comment, - 1
@@ -6141,6 +6312,7 @@ keep making - 1
 figure out - 1
 work at - 1
 recordings, photographs, - 1
+#free # - 1
 home-based entrepreneurs - 1
 # ^mhs - 1
 # ashley - 1
@@ -6157,6 +6329,7 @@ bargains and - 1
 rid of - 1
 creators on - 1
 smartphone users - 1
+apps so - 1
 aimed at - 1
 site launching - 1
 zombie book - 1
@@ -6177,6 +6350,7 @@ and food-related - 1
 recaps, fashion, - 1
 and time - 1
 beachnews from - 1
+cards, dating, - 1
 urban twitter - 1
 based in - 1
 congressional action - 1
@@ -6185,6 +6359,7 @@ world top - 1
 candace parker - 1
 my best - 1
 help, message - 1
+michael sarverwe - 1
 marvel comics, - 1
 with unrivaled - 1
 locals and - 1
@@ -6192,9 +6367,9 @@ networksnew media - 1
 the tv - 1
 say hi - 1
 entered the - 1
+# @nerdist - 1
 pictures as - 1
 struggling with - 1
-variety of - 1
 clarity, choice, - 1
 well through - 1
 tedtalks: ideas - 1
@@ -6230,6 +6405,7 @@ design the - 1
 and having - 1
 - making - 1
 has been - 1
+deliver worldwide - 1
 anything we - 1
 fly factory - 1
 after, about - 1
@@ -6334,6 +6510,7 @@ com â€ - 1
 stories about - 1
 running world - 1
 marketing services, - 1
+are proud - 1
 negotiating a - 1
 @travisnowdiscover how - 1
 and tricks - 1
@@ -6358,6 +6535,7 @@ in meeting - 1
 on youtube - 1
 parts, sales, - 1
 cham accounttrack - 1
+official emma - 1
 # notes - 1
 or keyword - 1
 diamond tipped - 1
@@ -6645,6 +6823,7 @@ our blog - 1
 cato tweets - 1
 + links - 1
 to listen, - 1
+von d - 1
 overlord or - 1
 articles and - 1
 our community - 1
@@ -6673,6 +6852,7 @@ comedian tom - 1
 for music, - 1
 and sega - 1
 traffic specialists, - 1
+san luis - 1
 # com/twitteraddicted - 1
 culture, photography, - 1
 health, wellness, - 1
@@ -6697,8 +6877,6 @@ paramount pictures - 1
 happiness officer - 1
 is actively - 1
 about 140,000 - 1
-quotes from - 1
-our mission: - 1
 applications with - 1
 originally from - 1
 good deals - 1
@@ -6785,6 +6963,7 @@ of entertainment - 1
 families grow - 1
 oven from - 1
 # twitterbrasil - 1
+1950's through - 1
 for first - 1
 about songs, - 1
 street, london - 1
@@ -6874,6 +7053,7 @@ dentist / - 1
 live audience, - 1
 leading fashion, - 1
 who tweets - 1
+to inspire, - 1
 your green - 1
 events, breaking - 1
 # magazine - 1
@@ -6936,6 +7116,7 @@ in almerimar, - 1
 # hardbody: - 1
 to listen - 1
 of playbig - 1
+and only - 1
 people - - 1
 com = - 1
 works by - 1
@@ -6949,6 +7130,7 @@ natural health - 1
 loser to - 1
 things mariah - 1
 let me - 1
+emotional eating, - 1
 world-famous sports - 1
 publicity expert, - 1
 beauty, hollywood, - 1
@@ -6993,6 +7175,7 @@ o fenÃ´meno - 1
 on this - 1
 tool to - 1
 crowd sourced - 1
+you've always - 1
 date star - 1
 izzr,, bk - 1
 business chameleon - 1
@@ -7086,6 +7269,7 @@ can use - 1
 , sports - 1
 breast cancer - 1
 and pat - 1
+- also - 1
 # hd - 1
 read about - 1
 santogold updates - 1
@@ -7125,11 +7309,13 @@ name popnbulletzwe - 1
 # dotmusic - 1
 finding the - 1
 works to - 1
+but also - 1
 you wisdom - 1
 # vp - 1
 best lifethe - 1
 red planet - 1
 vegan, etsy - 1
+here you - 1
 - demystifying - 1
 reigning from - 1
 by garytrippjesus - 1
@@ -7143,6 +7329,7 @@ furniture design - 1
 # pulling - 1
 goalieofficial mtv - 1
 @bleepbloopjeff, @dangurewitch, - 1
+nutrition, cooking - 1
 week: http://businessweek - 1
 at wholesale - 1
 scarlett news, - 1
@@ -7204,6 +7391,7 @@ online free - 1
 travel the - 1
 process via - 1
 golf here - 1
+a directory - 1
 # pd - 1
 world evangelistvideos, - 1
 # pc - 1
@@ -7221,6 +7409,7 @@ your ultimate - 1
 coffee roasters-roasting - 1
 tweeting the - 1
 diamond jewelrytravel, - 1
+for whoo - 1
 works on - 1
 culture served - 1
 independent record - 1
@@ -7268,6 +7457,7 @@ saving info - 1
 latest trendsatlanta - 1
 political establishment - 1
 do when - 1
+environment programme, - 1
 coolest twitter - 1
 communicate for - 1
 # boston - 1
@@ -7278,7 +7468,6 @@ gangsta rap - 1
 sweet, eh - 1
 bring gamers - 1
 reviews, commentary - 1
-our web - 1
 ok, so - 1
 jimmy falloncheck - 1
 twitter news, - 1
@@ -7306,6 +7495,7 @@ providing distinctive - 1
 # anything - 1
 character profiles - 1
 # com/tweetweekyour - 1
+golf swing - 1
 serves 3-4 - 1
 cocktail of - 1
 of lil - 1
@@ -7314,6 +7504,7 @@ twitterbanishing bad - 1
 a gift - 1
 more prospects - 1
 # priscilla - 1
+chris hardwick - 1
 trilogy blacksummers'night - 1
 of each - 1
 + blink182 - 1
@@ -7324,7 +7515,6 @@ contests, and - 1
 use twitter - 1
 qual-0% fixed - 1
 # plz - 1
-can follow - 1
 music updates - 1
 all kind - 1
 winnipeg, ottawa - 1
@@ -7347,6 +7537,7 @@ cern, the - 1
 eat, sleep - 1
 # chatting - 1
 worst of - 1
+networking and - 1
 out about - 1
 wildlife federation - 1
 about golf - 1
@@ -7354,6 +7545,7 @@ newsliverpool football - 1
 rnb, exemplifies - 1
 flat rate - 1
 seattle, wa - 1
+we look - 1
 # trusted - 1
 love your - 1
 research -- - 1
@@ -7361,6 +7553,7 @@ staff writer - 1
 agency and - 1
 recipes, frozen - 1
 new brunswick, - 1
+sharing mcvidz, - 1
 # &amp - 1
 changes, service - 1
 off at - 1
@@ -7380,11 +7573,13 @@ next-generation web - 1
 on underground, - 1
 twittering from - 1
 # tech,gadgets,software,mods,os,hacks,videogames,consoles - 1
+michael jackson - 1
 awards, finalists, - 1
 them for - 1
 born aug - 1
 our first - 1
 it with - 1
+to shakira's - 1
 8thn/avisit the - 1
 teacher assitant - 1
 watch property - 1
@@ -7394,6 +7589,7 @@ potent endurance - 1
 new yorker - 1
 about good - 1
 # comâ˜ - 1
+jornal hojewe - 1
 on time - 1
 msnbc and - 1
 united states20 - 1
@@ -7503,6 +7699,7 @@ join me - 1
 blogging, fashion - 1
 blogger, entrepreneur - 1
 franchises as - 1
+sarverwe are - 1
 famous kroqthe - 1
 research, delivered - 1
 maher twitterswe - 1
@@ -7543,6 +7740,7 @@ for children - 1
 = dj - 1
 kristian and - 1
 style coach - 1
+padalecki twitter - 1
 # showing - 1
 of nytimes - 1
 find penny - 1
@@ -7551,11 +7749,14 @@ american morningthe - 1
 for years, - 1
 for critical - 1
 present-day pachuco - 1
+in twitter - 1
 com twitteraggregating - 1
 google mapstwitter - 1
 and southern - 1
 sales + - 1
+#money - - 1
 show business, - 1
+jared padalecki - 1
 kona endurance - 1
 of otalo - 1
 # comadmittedly - 1
@@ -7601,6 +7802,7 @@ musical tweets - 1
 soul trapped - 1
 evp, global - 1
 2009 nba - 1
+individual ones - 1
 using our - 1
 collective soul - 1
 and sunday - 1
@@ -7617,6 +7819,7 @@ see for - 1
 # purveyors - 1
 internationally acclaimed - 1
 and bringing - 1
+co-host of - 1
 nprfollow for - 1
 trailers, and - 1
 provide vital - 1
@@ -7629,10 +7832,10 @@ create science - 1
 your invitationyukmouth-the - 1
 gallery with - 1
 personal tweets - 1
+have personal - 1
 ups is - 1
 newsla's #1 - 1
 digsbyis a - 1
-for san - 1
 from america - 1
 own website - 1
 -- because - 1
@@ -7646,6 +7849,7 @@ fiction and - 1
 hasselhoff twitters - 1
 # ok, - 1
 breaking global - 1
+official twitter, - 1
 y100 host, - 1
 foods, photography, - 1
 people, travel, - 1
@@ -7719,6 +7923,7 @@ best magazine - 1
 the way - 1
 # co-founder - 1
 ufc and - 1
+twitter pageour - 1
 compare versions, - 1
 saltwater species - 1
 marketing, pop - 1
@@ -7738,6 +7943,7 @@ making things - 1
 every investing - 1
 - not - 1
 - identifying - 1
+free reprint - 1
 tech solutions - 1
 gothic, emo, - 1
 & money/investing - 1
@@ -7745,6 +7951,7 @@ making you - 1
 moneynews and - 1
 comfrom the - 1
 own backyard - 1
+about diets, - 1
 star marina - 1
 playthe times - 1
 just choose - 1
@@ -7762,6 +7969,7 @@ about api - 1
 for mark's - 1
 thingsbattlefield heroes - 1
 phat twitter - 1
+for products - 1
 restoration parts, - 1
 blog: www - 1
 richard legg - 1
@@ -7778,6 +7986,7 @@ to advertise - 1
 self improvement - 1
 awful truth - 1
 a month - 1
+eztv - - 1
 gps, xbee, - 1
 # webmaster - 1
 carolla twitter - 1
@@ -7798,7 +8007,6 @@ team xsgear - 1
 launching social - 1
 gavin degrawlook - 1
 artists and - 1
-with twitter - 1
 7th in - 1
 life through - 1
 detroit area - 1
@@ -7890,6 +8098,7 @@ underground, alternative, - 1
 bonanzle booth - 1
 marketing ideas, - 1
 metaphysics since - 1
+hojewe love - 1
 of martha - 1
 talents and - 1
 are notorious - 1
@@ -7898,6 +8107,7 @@ next meal - 1
 a celebrity - 1
 o cqc - 1
 to death - 1
+dicas sobre - 1
 and shop - 1
 will watch - 1
 energy and - 1
@@ -7982,6 +8192,7 @@ uk are - 1
 # ukthe - 1
 delivered daily - 1
 communitynow tweeting - 1
+@batterystuff, @securitystuffdj - 1
 free link - 1
 to change - 1
 targeted and - 1
@@ -7991,7 +8202,9 @@ universe social - 1
 of digits - 1
 blog, or - 1
 people the - 1
+with no - 1
 phoenix arizona - 1
+luis obispo, - 1
 money,selling software,ebooks,articles,scripts - 1
 # 45 - 1
 stores now - 1
@@ -8051,6 +8264,7 @@ tools, hands - 1
 mil about - 1
 tv networkthe - 1
 bring the - 1
+kid official - 1
 carpet flooring - 1
 # ted - 1
 and high-tech - 1
@@ -8176,6 +8390,7 @@ that's one - 1
 tools to - 1
 organizing, writing, - 1
 one global - 1
+to go - 1
 secret 2 - 1
 finalists, and - 1
 american red - 1
@@ -8193,6 +8408,7 @@ siteall stories - 1
 university: trying - 1
 issues confronting - 1
 popular game - 1
+unusual business - 1
 management leadership - 1
 dibs on - 1
 extension web - 1
@@ -8340,10 +8556,10 @@ wsj best - 1
 guytwitjobs uk - 1
 vegas local - 1
 centsocial media - 1
+g4 & - 1
 media consultant - 1
 50% on - 1
 western patwttrblogs - 1
-official michael - 1
 brooklyn museum - 1
 guy chelsea - 1
 through focus - 1
@@ -8351,10 +8567,8 @@ trends from - 1
 to play - 1
 estate flipping, - 1
 internet's largest - 1
-# adam - 1
 tweets that - 1
 income earners - 1
-accountthe official - 1
 proof that - 1
 archivesstraight from - 1
 # publishers - 1
@@ -8366,6 +8580,7 @@ for everyonethe - 1
 every table - 1
 twilight news, - 1
 images, video - 1
+tecnologia e - 1
 we are, - 1
 in nice - 1
 maine, alesana, - 1
@@ -8374,6 +8589,7 @@ awesome magazine - 1
 casino and - 1
 from film, - 1
 add bipartisan - 1
+price but - 1
 half black - 1
 on with - 1
 tv whoreviralwordpress - 1
@@ -8398,6 +8614,7 @@ john mccain - 1
 nba, nhl, - 1
 twitterthe showgirl - 1
 ours to - 1
+# harry - 1
 hot out - 1
 9miles media - 1
 on facebook: - 1
@@ -8461,13 +8678,13 @@ cities and - 1
 # yippee - 1
 features, money - 1
 # whether - 1
+bienvenidos a - 1
 # mustlovewine - 1
 # commarketing - 1
 about iran - 1
 finding music - 1
 grey's anatomy - 1
 @scifri and - 1
-sports, music, - 1
 iphone, ipod, - 1
 of breaking - 1
 # waggywoo - 1
@@ -8475,6 +8692,7 @@ a journey - 1
 editor, vfx - 1
 the mobile - 1
 rentalsofficial a - 1
+email: bookdjwhookid@gmail - 1
 designofficial twitter - 1
 updates coming - 1
 talk it - 1
@@ -8487,6 +8705,7 @@ a 501 - 1
 hop, r&b, - 1
 demothis is - 1
 # linkibol - 1
+eating, fitness, - 1
 comthe national - 1
 planning advice - 1
 the pacific - 1
@@ -8510,6 +8729,7 @@ ireport and - 1
 competitive by - 1
 child care - 1
 full custom - 1
+to hit - 1
 the saturdaysthe - 1
 kristin section - 1
 blogging, software, - 1
@@ -8574,6 +8794,7 @@ the prescription - 1
 to topics - 1
 # com/wootselloutsupported - 1
 of larry - 1
+do jornal - 1
 ch twitter: - 1
 @ link - 1
 service, motorhome - 1
@@ -8635,6 +8856,7 @@ rentals san - 1
 ca about - 1
 serves straight - 1
 and most - 1
+newsthe offical - 1
 fashion inspiration - 1
 spoton duty: - 1
 # com: - 1
@@ -8650,6 +8872,7 @@ responding/chatting with - 1
 free psychic - 1
 fan would - 1
 4 home - 1
+also the - 1
 the stars - 1
 # coma - 1
 be challenged - 1
@@ -8707,6 +8930,7 @@ for authors - 1
 news, blogs, - 1
 - energy - 1
 relaxation coach, - 1
+in one - 1
 sites but - 1
 before someone - 1
 chargers twitter - 1
@@ -8715,6 +8939,7 @@ the benefits - 1
 24,000 + - 1
 for nba - 1
 and behavior, - 1
+teamonline career - 1
 i have - 1
 team ireport - 1
 political news, - 1
@@ -8741,6 +8966,7 @@ spot - - 1
 personality egypt - 1
 @askseesmicradio 4 - 1
 featuring atlanta - 1
+swing, golf - 1
 home page - 1
 and discussingroaming - 1
 largest music - 1
@@ -8782,6 +9008,7 @@ preservation society - 1
 evangelist, relationships - 1
 him up, - 1
 verify please - 1
+redes sociais, - 1
 about us, - 1
 knowels fan - 1
 affiliates and - 1
@@ -8835,6 +9062,7 @@ you embrace - 1
 and tourism - 1
 that automates - 1
 # fantasy - 1
+free golf - 1
 commarketing and - 1
 of knowledge - 1
 latest films - 1
@@ -8845,6 +9073,7 @@ news, tips/ideas, - 1
 woodsiprong magazine - 1
 companydemocratic u - 1
 help one - 1
+reprint articles - 1
 introduction of - 1
 ass marketer - 1
 bloggers of - 1
@@ -8855,8 +9084,10 @@ feedback article - 1
 i did - 1
 live internet-based - 1
 i dig - 1
+help youwe - 1
 # annie's - 1
 message @ustreamsupporta - 1
+us each - 1
 your english - 1
 in atl, - 1
 hills from - 1
@@ -8906,7 +9137,9 @@ simply, the - 1
 and strategies - 1
 darlingpolitics, political - 1
 architecture, & - 1
+mccartney team - 1
 killer niche, - 1
+personal accounts - 1
 # newsbuilding - 1
 advertising, and - 1
 pga golfwelcome - 1
@@ -8954,6 +9187,7 @@ publication online - 1
 pacific northwest's - 1
 scopeprofessional magician, - 1
 most out - 1
+soup with - 1
 watches, to - 1
 premier website - 1
 entertainment, sports - 1
@@ -9080,8 +9314,8 @@ specialist in - 1
 g4's thefeed - 1
 is insurance - 1
 --------------------------------------- sometimes - 1
+# globo - 1
 using twitter - 1
-articles for - 1
 online storytelling - 1
 free samples, - 1
 harrison llcmade - 1
@@ -9089,6 +9323,7 @@ healthcare professionals - 1
 british columbia- - 1
 # married - 1
 homeowners all - 1
+for icarly - 1
 supportnew media, - 1
 # yours - 1
 moment they - 1
@@ -9133,6 +9368,7 @@ things mac - 1
 nonprofit funding - 1
 game of - 1
 # together, - 1
+levin show - 1
 newstweetizen allows - 1
 contact from - 1
 nothing else - 1
@@ -9254,6 +9490,7 @@ you achieve - 1
 sundance film - 1
 original fresh - 1
 marcos mionan - 1
+quest to - 1
 dillanos coffee - 1
 a challenging - 1
 # connecting - 1
@@ -9279,12 +9516,14 @@ is produced - 1
 # @luefkens - 1
 and lauriethe - 1
 # drew - 1
+dj whoo - 1
 official e - 1
 celebrity photos - 1
 them girls - 1
 mortgages, newswired - 1
 recordshi, we're - 1
 it's uploaded - 1
+got your - 1
 france news - 1
 fulltime affiliate - 1
 since 1982 - 1
@@ -9295,6 +9534,7 @@ museum and - 1
 of djgreetings - 1
 social network, - 1
 more diggs - 1
+jackson twitter - 1
 records since - 1
 s, adam - 1
 since 1992 - 1
@@ -9310,6 +9550,7 @@ since 1996 - 1
 dirt on - 1
 the tide - 1
 doing the - 1
+management teamonline - 1
 vice-president of - 1
 food-related items - 1
 commercials, webisodes - 1
@@ -9343,7 +9584,6 @@ never have - 1
 for individuals - 1
 finished to - 1
 taking the - 1
-twitter apps - 1
 connector, writer, - 1
 oh, and - 1
 stop by - 1
@@ -9385,6 +9625,7 @@ lynn spears - 1
 sportsnation is - 1
 com www - 1
 twitter blog - 1
+diets, emotional - 1
 trendsatlanta music - 1
 iran and - 1
 heidi and - 1
@@ -9398,7 +9639,6 @@ insider, kristin - 1
 twitter networking - 1
 more birthdays - 1
 its super - 1
-and classic - 1
 # offices - 1
 worldwide news, - 1
 media, nonprofits, - 1
@@ -9429,6 +9669,7 @@ sports for - 1
 newswe're the - 1
 google adsense - 1
 sem + - 1
+more: http://weightloss-report - 1
 good again - 1
 expire - - 1
 unconditional love - 1
@@ -9459,6 +9700,7 @@ latest information - 1
 enterpriselatest celebrity - 1
 # 400k+ - 1
 counselor with - 1
+marketing exec - 1
 cabin rentals - 1
 going green - 1
 # comwww - 1
@@ -9524,7 +9766,6 @@ the canceled - 1
 book reviews, - 1
 # bookmark - 1
 business , - 1
-# here - 1
 sexy new - 1
 @healthylady @kstinchfield - 1
 tons of - 1
@@ -9562,6 +9803,7 @@ of millerfilm: - 1
 healy from - 1
 for lucasarts, - 1
 follow people - 1
+as his - 1
 official tony - 1
 - xoxo - 1
 and recruiter - 1
@@ -9601,11 +9843,13 @@ years ingrid - 1
 work across - 1
 magazine ever - 1
 roomâ€¦yes, his - 1
+love twitter - 1
 news needs, - 1
 through image - 1
 tv channelred - 1
 with text, - 1
 brand - - 1
+following me, - 1
 # acct - 1
 we know - 1
 piece pop/rock - 1
@@ -9621,6 +9865,7 @@ great mlm - 1
 # was - 1
 images all - 1
 through organic - 1
+onlinethe official - 1
 site with - 1
 out august - 1
 i'm up - 1
@@ -9629,6 +9874,7 @@ movies product - 1
 # jillian - 1
 interesting but - 1
 any night - 1
+# eztv - 1
 from others - 1
 economy -environmental - 1
 â™«â™«the politics - 1
@@ -9694,12 +9940,14 @@ than ever, - 1
 3159owner of - 1
 no such - 1
 book and - 1
+internet marketingimag - 1
 to debate, - 1
 about shopping - 1
 com/dtlrlivewe are - 1
 r there - 1
 oasis twitter - 1
 to translate - 1
+business newsthe - 1
 the coolest - 1
 info when - 1
 # publicist/interviews:brian@bsgpr - 1
@@ -9716,7 +9964,6 @@ and recipes - 1
 the mood/spirit - 1
 inaugural committee - 1
 best source - 1
-as well - 1
 and fastest - 1
 a zombie - 1
 to home-based - 1
@@ -9755,6 +10002,7 @@ autor und - 1
 and activism - 1
 literary-intellectual magazine - 1
 megan good - 1
+film twitter - 1
 email: we_can_help@cable - 1
 parker twitter - 1
 # tvshow - 1
@@ -9773,6 +10021,7 @@ help automate - 1
 gossipthe official - 1
 clerk of - 1
 list yourself - 1
+casino opportunities - 1
 amazing art - 1
 the americana - 1
 tour dates - 1
@@ -9801,6 +10050,7 @@ risk real - 1
 the jquery - 1
 wth unlimited - 1
 new articles - 1
+every section - 1
 math, raelianprofessional - 1
 milo ventimiglia - 1
 kaleb nation's - 1
@@ -9850,7 +10100,6 @@ your craving - 1
 learning tips - 1
 positive people, - 1
 doubt, openness, - 1
-you find - 1
 software - - 1
 flavors, espresso - 1
 passion for - 1
@@ -9941,6 +10190,7 @@ a teacher - 1
 staff blog - 1
 official tweet - 1
 bill maher - 1
+greeting cards, - 1
 @ksuzj and - 1
 saturdaysthe official - 1
 to fan - 1
@@ -9956,7 +10206,6 @@ me up - 1
 drinks, frozen - 1
 and applewho - 1
 our website]aim - 1
-thanks for - 1
 # twitbacks - 1
 programming, sport, - 1
 research service - 1
@@ -9993,6 +10242,7 @@ art gallery - 1
 iphone, apple - 1
 of representatives - 1
 cope with - 1
+the co-host - 1
 anything that's - 1
 study life - 1
 is stranger - 1
@@ -10062,6 +10312,7 @@ added regularly - 1
 other laker - 1
 the customers - 1
 firstmay 1992 - 1
+planning and - 1
 a resume, - 1
 outdoor news - 1
 things for - 1
@@ -10086,12 +10337,12 @@ question or - 1
 silver's fashion, - 1
 # nonprofit - 1
 all its - 1
-ready to - 1
 com's place - 1
 understand women - 1
 punk rock - 1
 # auntmarysdoghouse - 1
 $1,000,000 by - 1
+the saturdays - 1
 funny quotes, - 1
 richard t - 1
 backstreet boysnews - 1
@@ -10112,6 +10363,7 @@ estates, boats - 1
 image, fashion - 1
 engine optimisation - 1
 social site - 1
+& http://g4tv - 1
 to looking - 1
 tv series - 1
 examplesall scarlett - 1
@@ -10132,6 +10384,7 @@ energy weaver~private - 1
 by ny - 1
 news, fashion - 1
 non-profit movement - 1
+inspirational and - 1
 purveyors of - 1
 one world - 1
 open business - 1
@@ -10155,6 +10408,7 @@ weather, entertainment - 1
 than most - 1
 # find/get - 1
 for listening - 1
+obispo, daily - 1
 # comlive - 1
 and beyond - 1
 get me - 1
@@ -10186,6 +10440,7 @@ should add - 1
 renowned free - 1
 and answer - 1
 iconfactory's twitterrific - 1
+video sharing - 1
 be warned, - 1
 twittermlm, network - 1
 hear your - 1
@@ -10210,7 +10465,6 @@ from muncie, - 1
 we're human - 1
 # yum - 1
 2008-09 nw - 1
-are in - 1
 # fansshirley - 1
 when where - 1
 come visit - 1
@@ -10257,7 +10511,9 @@ get us - 1
 most award - 1
 passionate entrepreneur - 1
 canine cancer - 1
+security by - 1
 sega games - 1
+official harry - 1
 biz issues - 1
 sun is - 1
 our sculptures - 1
@@ -10299,7 +10555,6 @@ pilates, health, - 1
 new single - 1
 * welcome - 1
 twitter worldwide - 1
-twitter accountthe - 1
 original paintings - 1
 8 finalistupdated - 1
 from sciencenewsblog - 1
@@ -10347,6 +10602,7 @@ training and - 1
 road trips - 1
 areaall the - 1
 your story - 1
+is wedding - 1
 since 1993ubisoft's - 1
 tech news - 1
 # com/redeem - 1
@@ -10359,7 +10615,6 @@ common future, - 1
 bring out - 1
 good morning - 1
 radiotiny recipes - 1
-show twitter - 1
 designed to - 1
 small video - 1
 up today - 1
@@ -10377,6 +10632,7 @@ world's leaders - 1
 marketing resources - 1
 tv, and - 1
 providerlooking for - 1
+cooking and - 1
 management company - 1
 free stuff, - 1
 accounttrack industry - 1
@@ -10449,6 +10705,7 @@ of travel - 1
 each others' - 1
 his living - 1
 # com/twitteraustin - 1
+guidance from - 1
 mon-fridaytom's guide - 1
 missions and - 1
 fun, that's - 1
@@ -10527,6 +10784,7 @@ professional counselor - 1
 // dailywhowhatwear - 1
 a movie - 1
 styled activewear - 1
+kid's radioplanet - 1
 desired outcome: - 1
 internet & - 1
 monthpopular digg - 1
@@ -10562,9 +10820,11 @@ life is - 1
 # -csr/cause - 1
 orange county, - 1
 officially at - 1
+me, guys - 1
 @lotay's #blips, - 1
 much much - 1
 money makers - 1
+tips on - 1
 tvs toughest - 1
 an analyst - 1
 committed to - 1
@@ -10607,6 +10867,7 @@ anger, boredom, - 1
 useful topical - 1
 love not - 1
 # jensen - 1
+en twitterthe - 1
 level publishinghelping - 1
 in ur - 1
 interviews, photos - 1
@@ -10715,6 +10976,7 @@ of great - 1
 owners learn - 1
 on myspace - 1
 marketing, tech, - 1
+others so - 1
 24, 1984 - 1
 thing to - 1
 what separates - 1
@@ -10743,6 +11005,7 @@ and furniture - 1
 providing your - 1
 show who - 1
 everything going - 1
+see @radioplanet - 1
 @dangurewitch, @samreich, - 1
 the debt - 1
 that work - 1
@@ -10756,6 +11019,7 @@ health, fitness, - 1
 the capital - 1
 bots - - 1
 forum here: - 1
+to book - 1
 quotes, recaps, - 1
 affiliate tools,marketing - 1
 by sports - 1
@@ -10784,6 +11048,7 @@ comment, we'd - 1
 casters and - 1
 the frontlines - 1
 todaytwitter's official - 1
+de shakira - 1
 flat world - 1
 in an - 1
 previews, videos, - 1
@@ -10829,13 +11094,13 @@ selling or - 1
 by brad - 1
 resorts â˜ - 1
 mischiefreal estate - 1
-to assist - 1
 on www - 1
 raise awareness - 1
 to mankind - 1
 intelligent industry - 1
 to twitter - 1
 location, casting - 1
+may find - 1
 doing one - 1
 photo, great - 1
 hottest music - 1
@@ -10843,6 +11108,8 @@ protect the - 1
 researchofficial site - 1
 design online - 1
 pretty ricky - 1
+green awareness - 1
+proud to - 1
 relationship advice - 1
 chris cham - 1
 and tri - 1
@@ -10864,6 +11131,7 @@ need hope - 1
 learning consultant - 1
 change means - 1
 of useful - 1
+4 times - 1
 major news - 1
 # @meganmcf - 1
 # com/dininggourmet - 1
@@ -10881,6 +11149,7 @@ principal at - 1
 cafe and - 1
 face: your - 1
 and top - 1
+articles engine - 1
 radio, tv - 1
 | 'a - 1
 publishes daily - 1
@@ -10933,6 +11202,7 @@ could ever - 1
 # ,freak,plyd - 1
 house-no money - 1
 you're getting - 1
+d twitter - 1
 stories non-stop - 1
 who are - 1
 # bullsofficial - 1
@@ -10957,6 +11227,7 @@ creating a - 1
 each individual - 1
 news, technology - 1
 seo, and - 1
+website or - 1
 a brazilian - 1
 for lil - 1
 of what's - 1
@@ -10992,6 +11263,7 @@ smiles can - 1
 jesus and - 1
 women together - 1
 follow macrumorsrss - 1
+com/fatloss/the official - 1
 guitarist, radio - 1
 acct managed - 1
 a korean - 1
@@ -11083,6 +11355,7 @@ on twitterworldwide - 1
 old street, - 1
 behavior, to - 1
 feedpolitical correspondent, - 1
+twitter fun - 1
 mckinsey &amp - 1
 and insights - 1
 a mixture - 1
@@ -11120,7 +11393,7 @@ twitterings of - 1
 killing it - 1
 lotta fun - 1
 sale via - 1
-on g4 - 1
+have individual - 1
 of real - 1
 etsy, art - 1
 it out: - 1
@@ -11140,6 +11413,7 @@ parade, the - 1
 album guilty - 1
 fake jon - 1
 their artist - 1
+at internet - 1
 all bloggers - 1
 start in - 1
 you based - 1
@@ -11247,6 +11521,7 @@ advice blogs - 1
 # kidstar - 1
 can also - 1
 that talk - 1
+a golf - 1
 twitterÂ® toolbox - 1
 them to - 1
 and cultureapple - 1
@@ -11269,6 +11544,7 @@ from eakeane's - 1
 twittering the - 1
 # position - 1
 luxury products, - 1
+united nations - 1
 gadgets and - 1
 cnn essence - 1
 # pastor - 1
@@ -11281,6 +11557,7 @@ for weezy - 1
 ultimate twitterÂ® - 1
 so what - 1
 # com/officialjoevalentaofficial - 1
+to succeed - 1
 our brave - 1
 hip hop, - 1
 everything we - 1
@@ -11318,6 +11595,7 @@ great conversation - 1
 powers combined, - 1
 app development - 1
 do novo - 1
+whoo kid's - 1
 fantasy sports - 1
 latest issues - 1
 any niche - 1
@@ -11344,6 +11622,7 @@ bookmarking and - 1
 are interesting - 1
 organic livingmarketing - 1
 get tweets - 1
+pageveteran sales - 1
 day, every - 1
 side at - 1
 serves as - 1
@@ -11385,6 +11664,7 @@ newspaper that - 1
 uniquely styled - 1
 out persianq - 1
 sanctuary in - 1
+finalist michael - 1
 professional wordsmith - 1
 oprah magazine - 1
 hater breaker - 1
@@ -11431,6 +11711,7 @@ facial expressions - 1
 on you - 1
 trader joe's - 1
 official battlefield - 1
+official allison - 1
 news -tmz - 1
 design strategies - 1
 life green - 1
@@ -11484,6 +11765,7 @@ weekly journal - 1
 sr white - 1
 don't follow - 1
 army twitter: - 1
+the pleasure - 1
 # comonlineradiostations - 1
 # science - 1
 latest on - 1
@@ -11509,6 +11791,7 @@ facebook: http://bit - 1
 is neither - 1
 my link - 1
 internet radiotiny - 1
+hooked up - 1
 fashion, vodka, - 1
 hottest nintendo - 1
 also follow: - 1
@@ -11548,6 +11831,7 @@ storeconnecting with - 1
 buy any - 1
 # peace - 1
 and entertainment, - 1
+resourcethe official - 1
 design, serving - 1
 every weekday - 1
 interviews, and - 1
@@ -11560,6 +11844,7 @@ abnehmen,welcome to - 1
 of insomniac - 1
 amy, sarah, - 1
 austin ramblings - 1
+latest tc - 1
 neither our - 1
 co-founded the - 1
 # improve - 1
@@ -11592,6 +11877,7 @@ technology, design, - 1
 hank runs - 1
 # comcnn's - 1
 bodies movements - 1
+e dicas - 1
 providing targeted - 1
 of californiaofficial - 1
 excited to - 1
@@ -11601,6 +11887,7 @@ rush limbaugh - 1
 hi, we - 1
 - producer - 1
 # lots - 1
+1 profile, - 1
 aolim + - 1
 that's fun - 1
 easy, fast, - 1
@@ -11650,6 +11937,7 @@ brian mcfadden - 1
 worthy - - 1
 your freak - 1
 boston red - 1
+comon our - 1
 running @taggersearch - 1
 @astronautics please - 1
 smoky mountains - 1
@@ -11666,6 +11954,7 @@ remember that - 1
 tv is - 1
 # following - 1
 relations strategy - 1
+official stella - 1
 people laugh - 1
 to 'healthy' - 1
 shows, american - 1
@@ -11701,7 +11990,6 @@ co-founder of - 1
 adventureâ€™s west - 1
 dallas, music, - 1
 website &amp - 1
-oficial do - 1
 # @londonsearch - 1
 blowing cotton - 1
 new age - 1
@@ -11725,13 +12013,14 @@ vegas events - 1
 zip or - 1
 twitter addicts, - 1
 nambu, with - 1
+raise green - 1
 the hills - 1
 ehealth marketing: - 1
 htfc, f1, - 1
 androids & - 1
 and actionable - 1
 uswe are - 1
-- we - 1
+15austrian newstwitter - 1
 throughout the - 1
 30% on - 1
 smart choices - 1
@@ -11742,7 +12031,6 @@ careynew works - 1
 keith urban - 1
 : weblog - 1
 official brian - 1
-oficial de - 1
 # vincent - 1
 person to - 1
 and community - 1
@@ -11754,6 +12042,7 @@ to add - 1
 - up - 1
 life easierwe - 1
 definitive site - 1
+wedding planning - 1
 wine lover - 1
 affiliated w/nbc - 1
 who like - 1
@@ -11769,6 +12058,7 @@ entities a - 1
 link project - 1
 and adventures - 1
 down,-no qual-0% - 1
+- tv - 1
 radio voice - 1
 the ubuntu - 1
 official bobby - 1
@@ -11785,6 +12075,7 @@ of threatfire - 1
 always stillsafe - 1
 twihards *not - 1
 of chess - 1
+com world - 1
 guide,big spoiler|fringe,lost,ai,sytycd,grey's,chuck,mentalist,housewives,gossip - 1
 marketing musings - 1
 information sharing - 1
@@ -11818,7 +12109,9 @@ custom planabc - 1
 ot increase - 1
 to measure - 1
 most trusted - 1
+allison iraheta - 1
 and tweet - 1
+official kirk - 1
 # beerconnoisseur - 1
 # woot - 1
 research teamwant - 1
@@ -11829,6 +12122,7 @@ that frequently - 1
 industry related - 1
 culturemlm, networkmarketing, - 1
 or xsparkage - 1
+you in - 1
 you is - 1
 you ask - 1
 noticias quentinhas - 1
@@ -11852,6 +12146,7 @@ best way - 1
 ad site - 1
 web / - 1
 official amnesty - 1
+un's voice - 1
 backgrounds for - 1
 esoteric interestsearth's - 1
 official right - 1
@@ -11913,6 +12208,7 @@ for every - 1
 at http://twitter - 1
 and candid - 1
 traffic generation - 1
+with video - 1
 flickr user - 1
 the heck - 1
 cyruscityspur is - 1
@@ -11961,7 +12257,6 @@ and criticism - 1
 an offer - 1
 update tweets - 1
 # bestadsontv - 1
-out on - 1
 twitterevery day - 1
 timesany time, - 1
 protection to - 1
@@ -11973,6 +12268,7 @@ hill is - 1
 authors and - 1
 participe do - 1
 shoot a - 1
+we're ready - 1
 out my - 1
 # senate - 1
 world make - 1
@@ -12007,6 +12303,7 @@ interactive community - 1
 radio fan - 1
 plus pal - 1
 # commedia - 1
+groupwe specialize - 1
 2009: ireland's - 1
 stocks, options, - 1
 guide with - 1
@@ -12023,10 +12320,12 @@ twitter vineyard - 1
 cleveland cavs - 1
 writer sabrina - 1
 love social - 1
+that is - 1
 feature and - 1
 priscilla scala - 1
 n/abreaking news, - 1
 ever crowd - 1
+to cyber - 1
 and even - 1
 programs that - 1
 far too - 1
@@ -12085,6 +12384,7 @@ beer news - 1
 keep track - 1
 ebay, can't - 1
 magazine &amp - 1
+ramsey showthe - 1
 where over - 1
 mp3 downloads - 1
 abc newswrite - 1
@@ -12098,7 +12398,6 @@ can rent - 1
 fb pgs, - 1
 or @briantsuchiyaporn - 1
 24/7 sports - 1
-a variety - 1
 dallas morning - 1
 # armenian - 1
 content by - 1
@@ -12110,6 +12409,7 @@ espn for - 1
 magazine known - 1
 that works - 1
 of engadget - 1
+quakers and - 1
 & design - 1
 star gossip - 1
 recipes including - 1
@@ -12126,7 +12426,7 @@ and contribute - 1
 o verdadeiro - 1
 sept 8thn/avisit - 1
 touch, follow - 1
-voice on - 1
+july 15austrian - 1
 partners, the - 1
 chicken fried - 1
 where artists - 1
@@ -12177,6 +12477,7 @@ lil wayne - 1
 rv parts, - 1
 sure which - 1
 employment and - 1
+pageour mission - 1
 business journal - 1
 individuals throughout - 1
 trainingssteuerung, laufend - 1
@@ -12279,6 +12580,7 @@ bittorrent trackerreal - 1
 showgirl next - 1
 'original' green - 1
 tentacle of - 1
+sociais, tecnologia - 1
 and esoteric - 1
 music is - 1
 renegade university - 1
@@ -12331,6 +12633,7 @@ type, typepad, - 1
 you're always - 1
 your immediate - 1
 sculptures are - 1
+- email: - 1
 body buildertechnical - 1
 artfire is - 1
 kit s, - 1
@@ -12357,6 +12660,8 @@ your potentialofficial - 1
 with, and - 1
 most potent - 1
 bauart creative - 1
+to visit - 1
+growing industries - 1
 release site - 1
 stories on - 1
 and wellbeing - 1
@@ -12491,6 +12796,7 @@ customers you - 1
 here is - 1
 # combusiness - 1
 girls that - 1
+made just - 1
 the clay - 1
 - nothing - 1
 pagecoming soon - 1
@@ -12515,6 +12821,7 @@ comtwitter updates - 1
 weeklythe official - 1
 cute girl - 1
 hotels â˜ - 1
+shakira's official - 1
 elite epicurean - 1
 pattinson &amp - 1
 audio journal - 1
@@ -12532,6 +12839,7 @@ managing editor - 1
 @twitter for - 1
 we review - 1
 for i'm - 1
+to improve - 1
 enjoy daily - 1
 market research - 1
 business website - 1
@@ -12622,12 +12930,15 @@ you through - 1
 # inkjet - 1
 activewear for - 1
 day wealth, - 1
+of information - 1
 and headlines - 1
 t-mobile twitter - 1
+kid - - 1
 solutions that - 1
 you an - 1
 popwatch:required reading - 1
 the self-hosted - 1
+have one - 1
 #lp 3 - 1
 com/film - - 1
 food, medicine, - 1
@@ -12654,6 +12965,7 @@ nutty, odd, - 1
 official beatles - 1
 surprises from - 1
 pleasant morning - 1
+comes out - 1
 celeb gossip - 1
 footprints we - 1
 a low-rent - 1
@@ -12679,6 +12991,7 @@ track of - 1
 : office - 1
 we ask - 1
 case maker - 1
+articles in - 1
 learn, sing, - 1
 one else - 1
 the bottom - 1
@@ -12692,6 +13005,7 @@ netcommunity development - 1
 makeron-line store - 1
 ratio and - 1
 by people - 1
+share inspirational - 1
 ebook, available - 1
 trip stream - 1
 secretary of - 1
@@ -12735,6 +13049,7 @@ county, the - 1
 # comliving - 1
 stars from - 1
 the information - 1
+articles by - 1
 time, talents - 1
 gold panning, - 1
 digital media, - 1
@@ -12790,6 +13105,7 @@ mtv ukwe - 1
 # com/affiliatesu - 1
 addiction, self-injury - 1
 *every* day - 1
+franklinfreegolftip gives - 1
 media resources, - 1
 business freebies - 1
 and saltwater - 1
@@ -12806,7 +13122,9 @@ series the - 1
 movement where - 1
 news, rumours, - 1
 in marbella - 1
+each individually - 1
 a conversation - 1
+estate, greeting - 1
 all faiths - 1
 markets newslive, - 1
 locally owned - 1
@@ -12906,6 +13224,7 @@ songwriter - - 1
 from ustream - 1
 theatrical content - 1
 in negotiations - 1
+# http://ego - 1
 criss angel - 1
 tv â˜ - 1
 iconic collection - 1
@@ -12916,6 +13235,8 @@ complete with - 1
 and learning - 1
 news, fashion, - 1
 philosophers, philanthropists, - 1
+tips, tips - 1
+assist you - 1
 nasdaq: forr - 1
 music, news, - 1
 artists from - 1
@@ -12928,7 +13249,6 @@ lpp is - 1
 dot comsocial - 1
 she has - 1
 fat-free since - 1
-twitter is - 1
 twitter in - 1
 and respect - 1
 jovi fan - 1
@@ -12954,8 +13274,11 @@ foreclosure every - 1
 # resorts - 1
 @wsignabbit lets - 1
 # mayor: - 1
+jobs, wanted, - 1
+world groupwe - 1
 launch after - 1
 style and - 1
+money for - 1
 9pm e/p - 1
 to know - 1
 here from - 1
@@ -12987,6 +13310,7 @@ crops, viticulture, - 1
 headquarters 5-6pm - 1
 simply misunderstood - 1
 try this - 1
+mcfly twitter - 1
 great deals - 1
 twitter pagetour - 1
 the acai - 1
@@ -13014,6 +13338,7 @@ other useless - 1
 5th through - 1
 xoxo stephhelping - 1
 pearl jam's - 1
+free money - 1
 the furture - 1
 media monitoring - 1
 be right - 1
@@ -13083,6 +13408,7 @@ pic with - 1
 experiment in - 1
 july 27 - 1
 find/get found - 1
+shakira en - 1
 change agents, - 1
 and canada - 1
 classical pianist - 1
@@ -13093,6 +13419,7 @@ quotes and - 1
 stay tuned-over - 1
 faiths and - 1
 on itunes - 1
+a la - 1
 # having - 1
 about peak - 1
 to talk - 1
@@ -13129,9 +13456,12 @@ the essential - 1
 difference maker - 1
 ~the orginal - 1
 between, before, - 1
+adam sessler - 1
 and wife - 1
 # forever - 1
+ballproviding musclecar - 1
 transparent mortgage - 1
+no risk - 1
 email readings - 1
 served over - 1
 larry king - 1
@@ -13237,6 +13567,7 @@ plaschke, an - 1
 like this - 1
 â€œPositive clickâ€ - 1
 u were - 1
+engine is - 1
 by designofficial - 1
 cork flooring, - 1
 glbt world - 1
@@ -13258,7 +13589,6 @@ programming for - 1
 the time, - 1
 being u - 1
 correspondenta nice - 1
-idol season - 1
 @buytv -join - 1
 no longer - 1
 seo, tools, - 1
@@ -13316,6 +13646,7 @@ paisley in - 1
 the origins - 1
 agencyfree service - 1
 constantly added - 1
+mcvidz, jobs, - 1
 ministries and - 1
 # call - 1
 microsoft, and - 1
@@ -13383,8 +13714,10 @@ of course - 1
 airplanes can't - 1
 office solutions - 1
 known for - 1
+twitterwelcome to - 1
 @ chuckpalahniuk - 1
 recipesbo$$ bitch's - 1
+swing mechanics - 1
 have access - 1
 friends, golf, - 1
 twitter : - 1
@@ -13442,10 +13775,10 @@ bmpsee: http://viralurls - 1
 jobs, classes, - 1
 of huluvictor - 1
 of agive - 1
-we don't - 1
 the guy - 1
 tate st - 1
 all american, - 1
+succeed at - 1
 lauf-, jogging-, - 1
 energy, solar, - 1
 comif you - 1
@@ -13458,6 +13791,7 @@ quiz site - 1
 $125 today - 1
 oficial marcos - 1
 yourself or - 1
+mechanics and - 1
 xs energy - 1
 maker www - 1
 tv, music, - 1
@@ -13467,6 +13801,7 @@ diasporathe official - 1
 name hiphop - 1
 started or - 1
 novo concurso - 1
+8 finalist - 1
 designers, developers - 1
 travel and - 1
 your posts - 1
@@ -13524,6 +13859,7 @@ fun to - 1
 one user - 1
 your comments - 1
 is by - 1
+official dakota's - 1
 craig ranch, - 1
 spoiler|fringe,lost,ai,sytycd,grey's,chuck,mentalist,housewives,gossip girl,heroes,castle - 1
 # 2008-09 - 1
@@ -13531,6 +13867,7 @@ deals, and - 1
 you never - 1
 here on - 1
 blood pressure - 1
+we deliver - 1
 flooring, laminate - 1
 # any - 1
 # design - 1
@@ -13583,6 +13920,7 @@ news, talk, - 1
 web of - 1
 trends, and - 1
 from kristian - 1
+services you've - 1
 is he - 1
 # ask - 1
 out forum - 1
@@ -13625,6 +13963,7 @@ increase your - 1
 out how - 1
 to peace, - 1
 microsites and - 1
+emma watson - 1
 weeklycdc emergency - 1
 team feed, - 1
 start following - 1
@@ -13690,6 +14029,7 @@ student, spurs, - 1
 the nhl's - 1
 art galleries - 1
 global ad - 1
+money casino - 1
 use of - 1
 to promote - 1
 conservative christian - 1
@@ -13727,6 +14067,7 @@ girls, i - 1
 and traffic - 1
 googleif you - 1
 website, full - 1
+and with - 1
 us ideas - 1
 stations to - 1
 hypnotist, magician - 1
@@ -13748,6 +14089,7 @@ finding great - 1
 have auto - 1
 # because - 1
 # cboe - 1
+the half-blood - 1
 the worldâ˜ - 1
 your travels - 1
 dm's ignored, - 1
@@ -13944,6 +14286,7 @@ of sensor - 1
 the galaxy - 1
 science content - 1
 barack obama's - 1
+also have - 1
 order website, - 1
 free, black - 1
 and deliver - 1
@@ -13954,6 +14297,7 @@ oddballsnews from - 1
 # mobilelife - 1
 businesses in - 1
 # laurie - 1
+accounts where - 1
 love to - 1
 travel websites - 1
 # ^jw - 1
@@ -14023,15 +14367,18 @@ nature climate - 1
 frozen drinks, - 1
 increase natural - 1
 affection for - 1
+twitter pageveteran - 1
 photography, travel, - 1
 to 89 - 1
 six twitterwe're - 1
 & video - 1
 they will - 1
 and publishers - 1
+your inside - 1
 last night - 1
 ingrid elfver - 1
 adds for - 1
+# #free - 1
 fansite for - 1
 # ukinterested - 1
 # bloggeries - 1
@@ -14039,14 +14386,17 @@ run a - 1
 officer on - 1
 fun missions - 1
 dynamic graphic - 1
+for disneyâ€¢Pixar - 1
 and brand - 1
 text that - 1
+i've got - 1
 google enterpriselatest - 1
 blank, is - 1
 of several - 1
 of microspacexs - 1
 ultimate source - 1
 blogging coach, - 1
+cyber security - 1
 your easy, - 1
 advice, and - 1
 flying good - 1
@@ -14079,6 +14429,7 @@ orlova of - 1
 chris webber - 1
 comtweet starters - 1
 be recognizedpromoting - 1
+the un's - 1
 com/twitteraddicted to - 1
 join 1 - 1
 weekly vlog - 1
@@ -14107,6 +14458,7 @@ rae patrick - 1
 andifashion apparel - 1
 & travel - 1
 news, trends, - 1
+casino #money - 1
 while enjoying - 1
 fish & - 1
 us here - 1
@@ -14116,6 +14468,7 @@ and in - 1
 clips only - 1
 of luxury - 1
 network about - 1
+and include - 1
 central, social - 1
 success and - 1
 corporate bloggerjust - 1
@@ -14166,8 +14519,10 @@ such as - 1
 latest human - 1
 vote earth - 1
 the genesis - 1
+tiÃ«sto himself, - 1
 to good - 1
 who also - 1
+official jared - 1
 include technology, - 1
 vocal harmony, - 1
 world that - 1
@@ -14193,9 +14548,11 @@ palestine's point - 1
 spirit and - 1
 teach entrepreneurs - 1
 # com/clickprime - 1
+half-blood prince - 1
 atlantis to - 1
 future, for - 1
 # nabb - 1
+considered expenses - 1
 hottest celeb - 1
 education, we - 1
 tweet form - 1
@@ -14206,6 +14563,7 @@ started 03-06-09for - 1
 business politics - 1
 other companies - 1
 from business - 1
+of free - 1
 daily internet - 1
 engage youth - 1
 participating in - 1
@@ -14257,6 +14615,7 @@ or all - 1
 your political - 1
 email marketing, - 1
 theft auto, - 1
+golf ballproviding - 1
 # bet's - 1
 house and - 1
 solutionsa fan - 1
@@ -14274,6 +14633,7 @@ good life - 1
 on five - 1
 never come - 1
 forms higher - 1
+best price - 1
 games on - 1
 jonas twitter - 1
 trailer sales - 1
@@ -14347,6 +14707,7 @@ the tegan - 1
 celebrity and - 1
 cannot change - 1
 come stop - 1
+@securitystuffgps technology - 1
 & phones - 1
 handpicked book - 1
 com las - 1
@@ -14412,6 +14773,7 @@ meal deals - 1
 please visit - 1
 kids eat - 1
 jen on - 1
+times the - 1
 montythe official - 1
 biz opps, - 1
 finding all - 1
@@ -14443,6 +14805,7 @@ serves frisco, - 1
 launching a - 1
 fitness blogger, - 1
 day, one - 1
+always considered - 1
 cultures and - 1
 the zone - 1
 writing them - 1
@@ -14451,10 +14814,11 @@ urls from - 1
 we show - 1
 edition and - 1
 things in - 1
-inside scoop - 1
 won't you - 1
 or simply - 1
+@securitystuffdj whoo - 1
 twitter pagecoming - 1
+# com/fatloss/the - 1
 michael ian - 1
 ignored, pls - 1
 what it's - 1
@@ -14465,6 +14829,7 @@ the governing - 1
 and where - 1
 living healthy - 1
 and reliable - 1
+from 1950's - 1
 || find - 1
 # their - 1
 the media - 1
@@ -14482,10 +14847,10 @@ design group - 1
 actions at - 1
 all-girl professional - 1
 economicsjoin rick - 1
-find a - 1
 the test - 1
 jay-ztv twitter - 1
 // news - 1
+only the - 1
 makeup, linux, - 1
 interactive strategist - 1
 food, hhouse, - 1
@@ -14544,6 +14909,7 @@ diego house - 1
 the hashtag - 1
 original articles - 1
 well, by - 1
+your quest - 1
 one shirt, - 1
 selling group - 1
 prefixtweet the - 1
@@ -14553,6 +14919,7 @@ blink 182 - 1
 a show - 1
 will keep - 1
 jamie lynn - 1
+ideas, wedding - 1
 club near - 1
 atlanta, ga - 1
 # eco-living - 1
@@ -14564,6 +14931,7 @@ easy way - 1
 # principal - 1
 technical and - 1
 # pretty - 1
+the teen - 1
 energize your - 1
 to getting - 1
 be one - 1
@@ -14577,6 +14945,7 @@ one climate - 1
 of state, - 1
 sunny 1100 - 1
 life tweets - 1
+blood prince - 1
 immediate updates - 1
 see it - 1
 than tired - 1
@@ -14599,6 +14968,7 @@ ian black - 1
 inc - - 1
 communicationseverything about - 1
 things that - 1
+get real - 1
 website about - 1
 important aspect - 1
 f baby - 1
@@ -14616,6 +14986,7 @@ nywe're hiring - 1
 food, travel, - 1
 ted casblanca - 1
 a bridge - 1
+- novidades - 1
 miley cyruscityspur - 1
 share your - 1
 rate uncapped - 1
@@ -14629,7 +15000,6 @@ in using - 1
 including web - 1
 see us - 1
 season 5 - 1
-season 8 - 1
 digital pr - 1
 to verify - 1
 gives creative, - 1
@@ -14649,6 +15019,7 @@ before, after, - 1
 money saving - 1
 establishment upside - 1
 see you - 1
+e internet - 1
 official you - 1
 and up-to-the-minute - 1
 say, you - 1
@@ -14679,6 +15050,7 @@ staff: @bleepbloopjeff, - 1
 information delivery - 1
 world pro, - 1
 # cashflowinstitute - 1
+stella mccartney - 1
 avenue & - 1
 lush, intricate - 1
 right at - 1
