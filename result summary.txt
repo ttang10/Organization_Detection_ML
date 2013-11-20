@@ -21,7 +21,7 @@ Weighted Avg.    0.797     0.348      0.8       0.797     0.782      0.724
  2849  173 |    a = P
   748  766 |    b = O
 
-ANN 30_30:
+MLP 30_30:
 Correctly Classified Instances        3488               76.8959 %
 Incorrectly Classified Instances      1048               23.1041 %
 Kappa statistic                          0.4485
@@ -67,7 +67,7 @@ Weighted Avg.    0.802     0.333      0.804     0.802     0.789      0.735
  2835  187 |    a = P
   710  804 |    b = O
 
-ANN 50_50:
+MLP 50_50:
 Correctly Classified Instances        3457               76.2125 %
 Incorrectly Classified Instances      1079               23.7875 %
 Kappa statistic                          0.4362
@@ -113,7 +113,7 @@ Weighted Avg.    0.823     0.288      0.822     0.823     0.815      0.768
  2872  212 |    a = P
   603  920 |    b = O
 
-ANN 100_100:
+MLP 100_100:
 Correctly Classified Instances        3670               79.6614 %
 Incorrectly Classified Instances       937               20.3386 %
 Kappa statistic                          0.5301
