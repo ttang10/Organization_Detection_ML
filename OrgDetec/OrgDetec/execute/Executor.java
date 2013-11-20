@@ -25,8 +25,8 @@ import ngrams.word;
 public class Executor {
 	
 	final static int TOTAL_PROFILES_NUMBER = 6500;
-	final static int NORMALIZED_MIN__OCC_FAC = 50;
-	final static int NORMALIZED_MIN__DIF_FAC = 50;
+	final static int NORMALIZED_MIN__OCC_FAC = 100;
+	final static int NORMALIZED_MIN__DIF_FAC = 100;
 	
 	final static String FILENAME = "celebrities_profiles.txt";
 	final static String REFINED_FILE = "refined.txt";
