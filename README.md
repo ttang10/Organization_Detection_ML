@@ -6,4 +6,4 @@ To run this project, please find the project / OrgDetec / OrgDetec / execute / E
 Please use WEKA CLI to convert it to arff file "java weka.core.converters.CSVLoader csv_directory > target_directory".
 Then you have the arff file and can run it in WEKA.
 
-To re-run this project, please delelte all the output files in project directory (the csv file and all text files except the celebrities_profiles.txt) and reset the value of factors.
+To re-run this project, please delete all the output files in project directory (the csv file and all text files except the celebrities_profiles.txt) and reset the value of factors.
