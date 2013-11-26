@@ -1,5 +1,7 @@
 package removeUnknown;
 
+// this is a test class for removing unknown profiles
+
 import java.io.BufferedReader;
 import java.io.DataInputStream;
 import java.io.FileInputStream;

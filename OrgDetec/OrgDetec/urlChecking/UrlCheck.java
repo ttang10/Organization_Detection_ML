@@ -1,5 +1,7 @@
 package urlChecking;
 
+// this is a test class to check if url containing screen name
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.DataInputStream;

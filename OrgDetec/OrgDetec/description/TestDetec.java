@@ -1,5 +1,7 @@
 package description;
 
+// This is a test class for description processing
+
 import java.util.ArrayList;
 
 public class TestDetec {
